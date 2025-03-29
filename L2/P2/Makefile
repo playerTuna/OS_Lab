@@ -33,4 +33,3 @@ benchmark: all
 	echo; \
 	speedup=`echo "$$serial_time / $$mt_time" | bc -l`; \
 	printf "Speed-up: %.2fx\n" $$speedup
-
