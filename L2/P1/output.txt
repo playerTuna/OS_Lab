@@ -1,1681 +1,1683 @@
-Movie ID: 1, Average Rating: 3.88
-Movie ID: 2, Average Rating: 3.21
-Movie ID: 3, Average Rating: 3.03
-Movie ID: 4, Average Rating: 3.55
-Movie ID: 5, Average Rating: 3.30
-Movie ID: 6, Average Rating: 3.58
-Movie ID: 7, Average Rating: 3.80
-Movie ID: 8, Average Rating: 4.00
-Movie ID: 9, Average Rating: 3.90
-Movie ID: 10, Average Rating: 3.83
-Movie ID: 11, Average Rating: 3.85
-Movie ID: 12, Average Rating: 4.39
-Movie ID: 13, Average Rating: 3.42
-Movie ID: 14, Average Rating: 3.97
-Movie ID: 15, Average Rating: 3.78
-Movie ID: 16, Average Rating: 3.21
-Movie ID: 17, Average Rating: 3.12
-Movie ID: 18, Average Rating: 2.80
-Movie ID: 19, Average Rating: 3.96
-Movie ID: 20, Average Rating: 3.42
-Movie ID: 21, Average Rating: 2.76
-Movie ID: 22, Average Rating: 4.15
-Movie ID: 23, Average Rating: 4.12
-Movie ID: 24, Average Rating: 3.45
-Movie ID: 25, Average Rating: 3.44
-Movie ID: 26, Average Rating: 3.45
-Movie ID: 27, Average Rating: 3.11
-Movie ID: 28, Average Rating: 3.93
-Movie ID: 29, Average Rating: 2.67
-Movie ID: 30, Average Rating: 3.95
-Movie ID: 31, Average Rating: 3.63
-Movie ID: 32, Average Rating: 3.79
-Movie ID: 33, Average Rating: 3.45
-Movie ID: 34, Average Rating: 2.71
-Movie ID: 35, Average Rating: 2.18
-Movie ID: 36, Average Rating: 2.15
-Movie ID: 37, Average Rating: 2.25
-Movie ID: 38, Average Rating: 3.01
-Movie ID: 39, Average Rating: 3.26
-Movie ID: 40, Average Rating: 2.89
-Movie ID: 41, Average Rating: 3.08
-Movie ID: 42, Average Rating: 3.80
-Movie ID: 43, Average Rating: 3.00
-Movie ID: 44, Average Rating: 3.34
-Movie ID: 45, Average Rating: 4.05
-Movie ID: 46, Average Rating: 3.56
-Movie ID: 47, Average Rating: 3.60
-Movie ID: 48, Average Rating: 4.09
-Movie ID: 49, Average Rating: 3.32
-Movie ID: 50, Average Rating: 4.36
-Movie ID: 51, Average Rating: 3.46
-Movie ID: 52, Average Rating: 3.77
-Movie ID: 53, Average Rating: 2.95
-Movie ID: 54, Average Rating: 3.24
-Movie ID: 55, Average Rating: 3.70
-Movie ID: 56, Average Rating: 4.06
-Movie ID: 57, Average Rating: 4.00
-Movie ID: 58, Average Rating: 3.65
-Movie ID: 59, Average Rating: 4.06
-Movie ID: 60, Average Rating: 4.02
-Movie ID: 61, Average Rating: 3.86
-Movie ID: 62, Average Rating: 3.14
-Movie ID: 63, Average Rating: 3.10
-Movie ID: 64, Average Rating: 4.45
-Movie ID: 65, Average Rating: 3.54
-Movie ID: 66, Average Rating: 3.55
-Movie ID: 67, Average Rating: 3.05
-Movie ID: 68, Average Rating: 3.42
-Movie ID: 69, Average Rating: 3.85
-Movie ID: 70, Average Rating: 3.66
-Movie ID: 71, Average Rating: 3.78
-Movie ID: 72, Average Rating: 3.19
-Movie ID: 73, Average Rating: 3.47
-Movie ID: 74, Average Rating: 3.00
-Movie ID: 75, Average Rating: 3.00
-Movie ID: 76, Average Rating: 3.41
-Movie ID: 77, Average Rating: 3.28
-Movie ID: 78, Average Rating: 2.45
-Movie ID: 79, Average Rating: 4.04
-Movie ID: 80, Average Rating: 2.76
-Movie ID: 81, Average Rating: 3.55
-Movie ID: 82, Average Rating: 3.72
-Movie ID: 83, Average Rating: 4.06
-Movie ID: 84, Average Rating: 3.00
-Movie ID: 85, Average Rating: 3.03
-Movie ID: 86, Average Rating: 3.94
-Movie ID: 87, Average Rating: 3.91
-Movie ID: 88, Average Rating: 3.54
-Movie ID: 89, Average Rating: 4.14
-Movie ID: 90, Average Rating: 3.05
-Movie ID: 91, Average Rating: 3.59
-Movie ID: 92, Average Rating: 3.62
-Movie ID: 93, Average Rating: 3.72
-Movie ID: 94, Average Rating: 3.09
-Movie ID: 95, Average Rating: 3.81
-Movie ID: 96, Average Rating: 4.01
-Movie ID: 97, Average Rating: 3.79
-Movie ID: 98, Average Rating: 4.29
-Movie ID: 99, Average Rating: 3.71
-Movie ID: 100, Average Rating: 4.16
-Movie ID: 101, Average Rating: 3.26
-Movie ID: 102, Average Rating: 3.13
-Movie ID: 103, Average Rating: 1.87
-Movie ID: 104, Average Rating: 1.40
-Movie ID: 105, Average Rating: 2.57
-Movie ID: 106, Average Rating: 2.89
-Movie ID: 107, Average Rating: 3.50
-Movie ID: 108, Average Rating: 3.08
-Movie ID: 109, Average Rating: 3.43
-Movie ID: 110, Average Rating: 2.52
-Movie ID: 111, Average Rating: 3.49
-Movie ID: 112, Average Rating: 2.45
-Movie ID: 113, Average Rating: 4.11
-Movie ID: 114, Average Rating: 4.45
-Movie ID: 115, Average Rating: 3.73
-Movie ID: 116, Average Rating: 3.82
-Movie ID: 117, Average Rating: 3.69
-Movie ID: 118, Average Rating: 3.22
-Movie ID: 119, Average Rating: 4.50
-Movie ID: 120, Average Rating: 2.24
-Movie ID: 121, Average Rating: 3.44
-Movie ID: 122, Average Rating: 2.34
-Movie ID: 123, Average Rating: 3.23
-Movie ID: 124, Average Rating: 4.05
-Movie ID: 125, Average Rating: 3.56
-Movie ID: 126, Average Rating: 3.80
-Movie ID: 127, Average Rating: 4.28
-Movie ID: 128, Average Rating: 3.54
-Movie ID: 129, Average Rating: 3.82
-Movie ID: 130, Average Rating: 2.26
-Movie ID: 131, Average Rating: 3.73
-Movie ID: 132, Average Rating: 4.08
-Movie ID: 133, Average Rating: 3.87
-Movie ID: 134, Average Rating: 4.29
-Movie ID: 135, Average Rating: 3.97
-Movie ID: 136, Average Rating: 4.12
-Movie ID: 137, Average Rating: 3.90
-Movie ID: 138, Average Rating: 2.58
-Movie ID: 139, Average Rating: 2.78
-Movie ID: 140, Average Rating: 3.21
-Movie ID: 141, Average Rating: 3.50
-Movie ID: 142, Average Rating: 3.07
-Movie ID: 143, Average Rating: 3.77
-Movie ID: 144, Average Rating: 3.87
-Movie ID: 145, Average Rating: 2.45
-Movie ID: 146, Average Rating: 2.50
-Movie ID: 147, Average Rating: 3.47
-Movie ID: 148, Average Rating: 3.20
-Movie ID: 149, Average Rating: 3.00
-Movie ID: 150, Average Rating: 3.83
-Movie ID: 151, Average Rating: 3.63
-Movie ID: 152, Average Rating: 3.63
-Movie ID: 153, Average Rating: 3.79
-Movie ID: 154, Average Rating: 3.75
-Movie ID: 155, Average Rating: 3.10
-Movie ID: 156, Average Rating: 3.99
-Movie ID: 157, Average Rating: 3.69
-Movie ID: 158, Average Rating: 2.62
-Movie ID: 159, Average Rating: 3.23
-Movie ID: 160, Average Rating: 3.46
-Movie ID: 161, Average Rating: 3.48
-Movie ID: 162, Average Rating: 3.56
-Movie ID: 163, Average Rating: 3.55
-Movie ID: 164, Average Rating: 3.59
-Movie ID: 165, Average Rating: 4.11
-Movie ID: 166, Average Rating: 4.12
-Movie ID: 167, Average Rating: 2.96
-Movie ID: 168, Average Rating: 4.07
-Movie ID: 169, Average Rating: 4.47
-Movie ID: 170, Average Rating: 4.17
-Movie ID: 171, Average Rating: 3.88
-Movie ID: 172, Average Rating: 4.20
-Movie ID: 173, Average Rating: 4.17
-Movie ID: 174, Average Rating: 4.25
-Movie ID: 175, Average Rating: 3.82
-Movie ID: 176, Average Rating: 3.95
-Movie ID: 177, Average Rating: 3.86
-Movie ID: 178, Average Rating: 4.34
-Movie ID: 179, Average Rating: 3.91
-Movie ID: 180, Average Rating: 4.05
-Movie ID: 181, Average Rating: 4.01
-Movie ID: 182, Average Rating: 3.95
-Movie ID: 183, Average Rating: 4.03
-Movie ID: 184, Average Rating: 3.43
-Movie ID: 185, Average Rating: 4.10
-Movie ID: 186, Average Rating: 3.84
-Movie ID: 187, Average Rating: 4.19
-Movie ID: 188, Average Rating: 3.68
-Movie ID: 189, Average Rating: 4.11
-Movie ID: 190, Average Rating: 4.14
-Movie ID: 191, Average Rating: 4.16
-Movie ID: 192, Average Rating: 4.12
-Movie ID: 193, Average Rating: 3.92
-Movie ID: 194, Average Rating: 4.06
-Movie ID: 195, Average Rating: 3.93
-Movie ID: 196, Average Rating: 3.92
-Movie ID: 197, Average Rating: 4.10
-Movie ID: 198, Average Rating: 4.01
-Movie ID: 199, Average Rating: 4.18
-Movie ID: 200, Average Rating: 3.83
-Movie ID: 201, Average Rating: 3.52
-Movie ID: 202, Average Rating: 3.76
-Movie ID: 203, Average Rating: 3.87
-Movie ID: 204, Average Rating: 3.83
-Movie ID: 205, Average Rating: 3.99
-Movie ID: 206, Average Rating: 3.38
-Movie ID: 207, Average Rating: 3.82
-Movie ID: 208, Average Rating: 3.94
-Movie ID: 209, Average Rating: 3.91
-Movie ID: 210, Average Rating: 3.93
-Movie ID: 211, Average Rating: 3.91
-Movie ID: 212, Average Rating: 3.46
-Movie ID: 213, Average Rating: 3.99
-Movie ID: 214, Average Rating: 3.35
-Movie ID: 215, Average Rating: 3.70
-Movie ID: 216, Average Rating: 3.91
-Movie ID: 217, Average Rating: 3.16
-Movie ID: 218, Average Rating: 3.46
-Movie ID: 219, Average Rating: 3.17
-Movie ID: 220, Average Rating: 3.36
-Movie ID: 221, Average Rating: 3.73
-Movie ID: 222, Average Rating: 3.66
-Movie ID: 223, Average Rating: 4.20
-Movie ID: 224, Average Rating: 3.70
-Movie ID: 225, Average Rating: 2.91
-Movie ID: 226, Average Rating: 3.36
-Movie ID: 227, Average Rating: 3.28
-Movie ID: 228, Average Rating: 3.82
-Movie ID: 229, Average Rating: 3.11
-Movie ID: 230, Average Rating: 3.45
-Movie ID: 231, Average Rating: 2.68
-Movie ID: 232, Average Rating: 3.21
-Movie ID: 233, Average Rating: 3.29
-Movie ID: 234, Average Rating: 3.78
-Movie ID: 235, Average Rating: 2.85
-Movie ID: 236, Average Rating: 3.62
-Movie ID: 237, Average Rating: 3.71
-Movie ID: 238, Average Rating: 3.88
-Movie ID: 239, Average Rating: 3.51
-Movie ID: 240, Average Rating: 2.79
-Movie ID: 241, Average Rating: 3.55
-Movie ID: 242, Average Rating: 3.99
-Movie ID: 243, Average Rating: 2.44
-Movie ID: 244, Average Rating: 3.17
-Movie ID: 245, Average Rating: 3.11
-Movie ID: 246, Average Rating: 3.94
-Movie ID: 247, Average Rating: 1.80
-Movie ID: 248, Average Rating: 3.67
-Movie ID: 249, Average Rating: 3.25
-Movie ID: 250, Average Rating: 3.48
-Movie ID: 251, Average Rating: 4.26
-Movie ID: 252, Average Rating: 2.94
-Movie ID: 253, Average Rating: 3.69
-Movie ID: 254, Average Rating: 2.45
-Movie ID: 255, Average Rating: 3.36
-Movie ID: 256, Average Rating: 3.56
-Movie ID: 257, Average Rating: 3.75
-Movie ID: 258, Average Rating: 3.80
-Movie ID: 259, Average Rating: 2.69
-Movie ID: 260, Average Rating: 2.57
-Movie ID: 261, Average Rating: 2.56
-Movie ID: 262, Average Rating: 3.71
-Movie ID: 263, Average Rating: 2.16
-Movie ID: 264, Average Rating: 2.74
-Movie ID: 265, Average Rating: 3.86
-Movie ID: 266, Average Rating: 2.71
-Movie ID: 267, Average Rating: 3.44
-Movie ID: 268, Average Rating: 3.79
-Movie ID: 269, Average Rating: 3.93
-Movie ID: 270, Average Rating: 3.60
-Movie ID: 271, Average Rating: 3.23
-Movie ID: 272, Average Rating: 4.26
-Movie ID: 273, Average Rating: 3.57
-Movie ID: 274, Average Rating: 3.50
-Movie ID: 275, Average Rating: 4.01
-Movie ID: 276, Average Rating: 3.70
-Movie ID: 277, Average Rating: 3.46
-Movie ID: 278, Average Rating: 3.23
-Movie ID: 279, Average Rating: 3.29
-Movie ID: 280, Average Rating: 3.19
-Movie ID: 281, Average Rating: 3.14
-Movie ID: 282, Average Rating: 3.69
-Movie ID: 283, Average Rating: 3.72
-Movie ID: 284, Average Rating: 3.16
-Movie ID: 285, Average Rating: 4.27
-Movie ID: 286, Average Rating: 3.66
-Movie ID: 287, Average Rating: 3.59
-Movie ID: 288, Average Rating: 3.44
-Movie ID: 289, Average Rating: 2.98
-Movie ID: 290, Average Rating: 3.11
-Movie ID: 291, Average Rating: 3.37
-Movie ID: 292, Average Rating: 3.67
-Movie ID: 293, Average Rating: 3.80
-Movie ID: 294, Average Rating: 3.16
-Movie ID: 295, Average Rating: 3.40
-Movie ID: 296, Average Rating: 3.33
-Movie ID: 297, Average Rating: 3.96
-Movie ID: 298, Average Rating: 3.77
-Movie ID: 299, Average Rating: 2.93
-Movie ID: 300, Average Rating: 3.63
-Movie ID: 301, Average Rating: 3.30
-Movie ID: 302, Average Rating: 4.16
-Movie ID: 303, Average Rating: 3.69
-Movie ID: 304, Average Rating: 3.54
-Movie ID: 305, Average Rating: 3.64
-Movie ID: 306, Average Rating: 3.95
-Movie ID: 307, Average Rating: 3.52
-Movie ID: 308, Average Rating: 2.97
-Movie ID: 309, Average Rating: 2.86
-Movie ID: 310, Average Rating: 3.60
-Movie ID: 311, Average Rating: 3.68
-Movie ID: 312, Average Rating: 3.16
-Movie ID: 313, Average Rating: 4.25
-Movie ID: 314, Average Rating: 1.00
-Movie ID: 315, Average Rating: 4.10
-Movie ID: 316, Average Rating: 4.20
-Movie ID: 317, Average Rating: 3.91
-Movie ID: 318, Average Rating: 4.47
-Movie ID: 319, Average Rating: 3.27
-Movie ID: 320, Average Rating: 4.05
-Movie ID: 321, Average Rating: 3.13
-Movie ID: 322, Average Rating: 3.09
-Movie ID: 323, Average Rating: 2.93
-Movie ID: 324, Average Rating: 3.14
-Movie ID: 325, Average Rating: 2.55
-Movie ID: 326, Average Rating: 3.36
-Movie ID: 327, Average Rating: 3.38
-Movie ID: 328, Average Rating: 3.42
-Movie ID: 329, Average Rating: 3.33
-Movie ID: 330, Average Rating: 3.02
-Movie ID: 331, Average Rating: 3.54
-Movie ID: 332, Average Rating: 3.46
-Movie ID: 333, Average Rating: 3.59
-Movie ID: 334, Average Rating: 3.36
-Movie ID: 335, Average Rating: 2.76
-Movie ID: 336, Average Rating: 2.63
-Movie ID: 337, Average Rating: 3.00
-Movie ID: 338, Average Rating: 2.66
-Movie ID: 339, Average Rating: 3.26
-Movie ID: 340, Average Rating: 3.59
-Movie ID: 341, Average Rating: 3.09
-Movie ID: 342, Average Rating: 2.92
-Movie ID: 343, Average Rating: 3.10
-Movie ID: 344, Average Rating: 3.65
-Movie ID: 345, Average Rating: 3.40
-Movie ID: 346, Average Rating: 3.64
-Movie ID: 347, Average Rating: 3.51
-Movie ID: 348, Average Rating: 3.30
-Movie ID: 349, Average Rating: 2.90
-Movie ID: 350, Average Rating: 3.15
-Movie ID: 351, Average Rating: 2.70
-Movie ID: 352, Average Rating: 2.12
-Movie ID: 353, Average Rating: 2.43
-Movie ID: 354, Average Rating: 3.49
-Movie ID: 355, Average Rating: 2.93
-Movie ID: 356, Average Rating: 3.38
-Movie ID: 357, Average Rating: 4.29
-Movie ID: 358, Average Rating: 2.62
-Movie ID: 359, Average Rating: 3.50
-Movie ID: 360, Average Rating: 3.20
-Movie ID: 361, Average Rating: 3.50
-Movie ID: 362, Average Rating: 2.82
-Movie ID: 363, Average Rating: 2.72
-Movie ID: 364, Average Rating: 2.68
-Movie ID: 365, Average Rating: 3.21
-Movie ID: 366, Average Rating: 3.34
-Movie ID: 367, Average Rating: 3.46
-Movie ID: 368, Average Rating: 1.90
-Movie ID: 369, Average Rating: 2.64
-Movie ID: 370, Average Rating: 2.82
-Movie ID: 371, Average Rating: 3.16
-Movie ID: 372, Average Rating: 3.53
-Movie ID: 373, Average Rating: 2.90
-Movie ID: 374, Average Rating: 2.27
-Movie ID: 375, Average Rating: 1.96
-Movie ID: 376, Average Rating: 2.83
-Movie ID: 377, Average Rating: 2.15
-Movie ID: 378, Average Rating: 3.72
-Movie ID: 379, Average Rating: 2.98
-Movie ID: 380, Average Rating: 3.34
-Movie ID: 381, Average Rating: 3.55
-Movie ID: 382, Average Rating: 3.59
-Movie ID: 383, Average Rating: 2.06
-Movie ID: 384, Average Rating: 2.78
-Movie ID: 385, Average Rating: 3.56
-Movie ID: 386, Average Rating: 2.82
-Movie ID: 387, Average Rating: 3.38
-Movie ID: 388, Average Rating: 2.39
-Movie ID: 389, Average Rating: 3.44
-Movie ID: 390, Average Rating: 3.20
-Movie ID: 391, Average Rating: 2.75
-Movie ID: 392, Average Rating: 3.54
-Movie ID: 393, Average Rating: 3.41
-Movie ID: 394, Average Rating: 3.33
-Movie ID: 395, Average Rating: 2.59
-Movie ID: 396, Average Rating: 2.81
-Movie ID: 397, Average Rating: 2.58
-Movie ID: 398, Average Rating: 2.08
-Movie ID: 399, Average Rating: 3.30
-Movie ID: 400, Average Rating: 2.72
-Movie ID: 401, Average Rating: 2.80
-Movie ID: 402, Average Rating: 3.46
-Movie ID: 403, Average Rating: 3.43
-Movie ID: 404, Average Rating: 3.67
-Movie ID: 405, Average Rating: 3.31
-Movie ID: 406, Average Rating: 2.45
-Movie ID: 407, Average Rating: 2.51
-Movie ID: 408, Average Rating: 4.49
-Movie ID: 409, Average Rating: 3.14
-Movie ID: 410, Average Rating: 3.13
-Movie ID: 411, Average Rating: 2.91
-Movie ID: 412, Average Rating: 2.40
-Movie ID: 413, Average Rating: 2.64
-Movie ID: 414, Average Rating: 3.53
-Movie ID: 415, Average Rating: 2.84
-Movie ID: 416, Average Rating: 3.48
-Movie ID: 417, Average Rating: 3.10
-Movie ID: 418, Average Rating: 3.58
-Movie ID: 419, Average Rating: 3.72
-Movie ID: 420, Average Rating: 3.67
-Movie ID: 421, Average Rating: 3.59
-Movie ID: 422, Average Rating: 2.85
-Movie ID: 423, Average Rating: 3.83
-Movie ID: 424, Average Rating: 1.32
-Movie ID: 425, Average Rating: 3.74
-Movie ID: 426, Average Rating: 2.84
-Movie ID: 427, Average Rating: 4.29
-Movie ID: 428, Average Rating: 3.82
-Movie ID: 429, Average Rating: 3.94
-Movie ID: 430, Average Rating: 4.00
-Movie ID: 431, Average Rating: 3.54
-Movie ID: 432, Average Rating: 3.77
-Movie ID: 433, Average Rating: 3.69
-Movie ID: 434, Average Rating: 3.84
-Movie ID: 435, Average Rating: 3.95
-Movie ID: 436, Average Rating: 3.54
-Movie ID: 437, Average Rating: 1.00
-Movie ID: 438, Average Rating: 1.17
-Movie ID: 439, Average Rating: 1.00
-Movie ID: 440, Average Rating: 1.64
-Movie ID: 441, Average Rating: 2.57
-Movie ID: 442, Average Rating: 1.25
-Movie ID: 443, Average Rating: 3.81
-Movie ID: 444, Average Rating: 2.72
-Movie ID: 445, Average Rating: 3.50
-Movie ID: 446, Average Rating: 2.44
-Movie ID: 447, Average Rating: 3.50
-Movie ID: 448, Average Rating: 3.39
-Movie ID: 449, Average Rating: 3.03
-Movie ID: 450, Average Rating: 2.40
-Movie ID: 451, Average Rating: 3.35
-Movie ID: 452, Average Rating: 2.67
-Movie ID: 453, Average Rating: 1.94
-Movie ID: 454, Average Rating: 2.88
-Movie ID: 455, Average Rating: 3.26
-Movie ID: 456, Average Rating: 2.31
-Movie ID: 457, Average Rating: 1.74
-Movie ID: 458, Average Rating: 3.12
-Movie ID: 459, Average Rating: 3.75
-Movie ID: 460, Average Rating: 3.00
-Movie ID: 461, Average Rating: 3.62
-Movie ID: 462, Average Rating: 3.80
-Movie ID: 463, Average Rating: 3.86
-Movie ID: 464, Average Rating: 3.59
-Movie ID: 465, Average Rating: 3.56
-Movie ID: 466, Average Rating: 3.60
-Movie ID: 467, Average Rating: 3.79
-Movie ID: 468, Average Rating: 3.31
-Movie ID: 469, Average Rating: 3.78
-Movie ID: 470, Average Rating: 3.67
-Movie ID: 471, Average Rating: 3.61
-Movie ID: 472, Average Rating: 3.08
-Movie ID: 473, Average Rating: 3.13
-Movie ID: 474, Average Rating: 4.25
-Movie ID: 475, Average Rating: 3.88
-Movie ID: 476, Average Rating: 3.02
-Movie ID: 477, Average Rating: 3.21
-Movie ID: 478, Average Rating: 4.12
-Movie ID: 479, Average Rating: 4.25
-Movie ID: 480, Average Rating: 4.28
-Movie ID: 481, Average Rating: 3.94
-Movie ID: 482, Average Rating: 3.98
-Movie ID: 483, Average Rating: 4.46
-Movie ID: 484, Average Rating: 4.21
-Movie ID: 485, Average Rating: 3.82
-Movie ID: 486, Average Rating: 3.80
-Movie ID: 487, Average Rating: 4.10
-Movie ID: 488, Average Rating: 4.20
-Movie ID: 489, Average Rating: 4.12
-Movie ID: 490, Average Rating: 4.02
-Movie ID: 491, Average Rating: 3.79
-Movie ID: 492, Average Rating: 3.86
-Movie ID: 493, Average Rating: 4.15
-Movie ID: 494, Average Rating: 4.00
-Movie ID: 495, Average Rating: 3.66
-Movie ID: 496, Average Rating: 4.12
-Movie ID: 497, Average Rating: 3.84
-Movie ID: 498, Average Rating: 4.18
-Movie ID: 499, Average Rating: 3.95
-Movie ID: 500, Average Rating: 3.90
-Movie ID: 501, Average Rating: 3.50
-Movie ID: 502, Average Rating: 3.70
-Movie ID: 503, Average Rating: 3.64
-Movie ID: 504, Average Rating: 3.82
-Movie ID: 505, Average Rating: 4.00
-Movie ID: 506, Average Rating: 3.86
-Movie ID: 507, Average Rating: 3.82
-Movie ID: 508, Average Rating: 3.60
-Movie ID: 509, Average Rating: 3.85
-Movie ID: 510, Average Rating: 3.94
-Movie ID: 511, Average Rating: 4.23
-Movie ID: 512, Average Rating: 4.00
-Movie ID: 513, Average Rating: 4.33
-Movie ID: 514, Average Rating: 3.91
-Movie ID: 515, Average Rating: 4.20
-Movie ID: 516, Average Rating: 3.97
-Movie ID: 517, Average Rating: 3.77
-Movie ID: 518, Average Rating: 3.65
-Movie ID: 519, Average Rating: 4.10
-Movie ID: 520, Average Rating: 4.10
-Movie ID: 521, Average Rating: 3.83
-Movie ID: 522, Average Rating: 3.77
-Movie ID: 523, Average Rating: 3.99
-Movie ID: 524, Average Rating: 4.02
-Movie ID: 525, Average Rating: 4.03
-Movie ID: 526, Average Rating: 3.83
-Movie ID: 527, Average Rating: 4.02
-Movie ID: 528, Average Rating: 4.13
-Movie ID: 529, Average Rating: 3.98
-Movie ID: 530, Average Rating: 4.03
-Movie ID: 531, Average Rating: 3.92
-Movie ID: 532, Average Rating: 3.32
-Movie ID: 533, Average Rating: 3.67
-Movie ID: 534, Average Rating: 3.31
-Movie ID: 535, Average Rating: 3.17
-Movie ID: 536, Average Rating: 3.30
-Movie ID: 537, Average Rating: 3.63
-Movie ID: 538, Average Rating: 3.42
-Movie ID: 539, Average Rating: 2.48
-Movie ID: 540, Average Rating: 2.51
-Movie ID: 541, Average Rating: 2.88
-Movie ID: 542, Average Rating: 2.53
-Movie ID: 543, Average Rating: 3.62
-Movie ID: 544, Average Rating: 3.15
-Movie ID: 545, Average Rating: 1.83
-Movie ID: 546, Average Rating: 3.03
-Movie ID: 547, Average Rating: 3.34
-Movie ID: 548, Average Rating: 2.17
-Movie ID: 549, Average Rating: 3.57
-Movie ID: 550, Average Rating: 3.28
-Movie ID: 551, Average Rating: 2.42
-Movie ID: 552, Average Rating: 2.87
-Movie ID: 553, Average Rating: 3.29
-Movie ID: 554, Average Rating: 2.80
-Movie ID: 555, Average Rating: 2.00
-Movie ID: 556, Average Rating: 2.50
-Movie ID: 557, Average Rating: 3.12
-Movie ID: 558, Average Rating: 3.67
-Movie ID: 559, Average Rating: 3.18
-Movie ID: 560, Average Rating: 2.73
-Movie ID: 561, Average Rating: 3.07
-Movie ID: 562, Average Rating: 3.21
-Movie ID: 563, Average Rating: 2.41
-Movie ID: 564, Average Rating: 2.04
-Movie ID: 565, Average Rating: 2.68
-Movie ID: 566, Average Rating: 3.57
-Movie ID: 567, Average Rating: 2.80
-Movie ID: 568, Average Rating: 3.65
-Movie ID: 569, Average Rating: 2.70
-Movie ID: 570, Average Rating: 3.10
-Movie ID: 571, Average Rating: 2.50
-Movie ID: 572, Average Rating: 2.76
-Movie ID: 573, Average Rating: 2.94
-Movie ID: 574, Average Rating: 2.20
-Movie ID: 575, Average Rating: 2.55
-Movie ID: 576, Average Rating: 3.02
-Movie ID: 577, Average Rating: 2.22
-Movie ID: 578, Average Rating: 3.15
-Movie ID: 579, Average Rating: 2.63
-Movie ID: 580, Average Rating: 3.38
-Movie ID: 581, Average Rating: 3.22
-Movie ID: 582, Average Rating: 3.60
-Movie ID: 583, Average Rating: 3.00
-Movie ID: 584, Average Rating: 3.54
-Movie ID: 585, Average Rating: 2.49
-Movie ID: 586, Average Rating: 2.68
-Movie ID: 587, Average Rating: 3.57
-Movie ID: 588, Average Rating: 3.79
-Movie ID: 589, Average Rating: 4.02
-Movie ID: 590, Average Rating: 2.00
-Movie ID: 591, Average Rating: 3.60
-Movie ID: 592, Average Rating: 3.33
-Movie ID: 593, Average Rating: 3.17
-Movie ID: 594, Average Rating: 2.40
-Movie ID: 595, Average Rating: 3.09
-Movie ID: 596, Average Rating: 3.38
-Movie ID: 597, Average Rating: 3.15
-Movie ID: 598, Average Rating: 2.25
-Movie ID: 599, Average Rating: 1.00
-Movie ID: 600, Average Rating: 3.00
-Movie ID: 601, Average Rating: 4.00
-Movie ID: 602, Average Rating: 3.70
-Movie ID: 603, Average Rating: 4.39
-Movie ID: 604, Average Rating: 4.01
-Movie ID: 605, Average Rating: 3.35
-Movie ID: 606, Average Rating: 4.05
-Movie ID: 607, Average Rating: 3.97
-Movie ID: 608, Average Rating: 3.93
-Movie ID: 609, Average Rating: 3.58
-Movie ID: 610, Average Rating: 3.66
-Movie ID: 611, Average Rating: 4.10
-Movie ID: 612, Average Rating: 3.94
-Movie ID: 613, Average Rating: 4.04
-Movie ID: 614, Average Rating: 3.75
-Movie ID: 615, Average Rating: 4.05
-Movie ID: 616, Average Rating: 3.42
-Movie ID: 617, Average Rating: 3.78
-Movie ID: 618, Average Rating: 3.61
-Movie ID: 619, Average Rating: 3.17
-Movie ID: 620, Average Rating: 3.09
-Movie ID: 621, Average Rating: 2.91
-Movie ID: 622, Average Rating: 3.36
-Movie ID: 623, Average Rating: 2.92
-Movie ID: 624, Average Rating: 3.27
-Movie ID: 625, Average Rating: 3.33
-Movie ID: 626, Average Rating: 3.25
-Movie ID: 627, Average Rating: 3.23
-Movie ID: 628, Average Rating: 3.51
-Movie ID: 629, Average Rating: 3.34
-Movie ID: 630, Average Rating: 3.29
-Movie ID: 631, Average Rating: 3.62
-Movie ID: 632, Average Rating: 3.90
-Movie ID: 633, Average Rating: 4.06
-Movie ID: 634, Average Rating: 3.75
-Movie ID: 635, Average Rating: 2.74
-Movie ID: 636, Average Rating: 3.24
-Movie ID: 637, Average Rating: 3.03
-Movie ID: 638, Average Rating: 3.77
-Movie ID: 639, Average Rating: 3.70
-Movie ID: 640, Average Rating: 3.02
-Movie ID: 641, Average Rating: 4.21
-Movie ID: 642, Average Rating: 3.48
-Movie ID: 643, Average Rating: 3.00
-Movie ID: 644, Average Rating: 3.77
-Movie ID: 645, Average Rating: 3.81
-Movie ID: 646, Average Rating: 3.87
-Movie ID: 647, Average Rating: 4.10
-Movie ID: 648, Average Rating: 4.03
-Movie ID: 649, Average Rating: 3.40
-Movie ID: 650, Average Rating: 3.54
-Movie ID: 651, Average Rating: 4.08
-Movie ID: 652, Average Rating: 3.89
-Movie ID: 653, Average Rating: 3.91
-Movie ID: 654, Average Rating: 4.14
-Movie ID: 655, Average Rating: 3.88
-Movie ID: 656, Average Rating: 4.00
-Movie ID: 657, Average Rating: 4.26
-Movie ID: 658, Average Rating: 3.42
-Movie ID: 659, Average Rating: 4.08
-Movie ID: 660, Average Rating: 3.76
-Movie ID: 661, Average Rating: 4.10
-Movie ID: 662, Average Rating: 3.43
-Movie ID: 663, Average Rating: 3.91
-Movie ID: 664, Average Rating: 3.54
-Movie ID: 665, Average Rating: 2.83
-Movie ID: 666, Average Rating: 2.40
-Movie ID: 667, Average Rating: 2.17
-Movie ID: 668, Average Rating: 2.17
-Movie ID: 669, Average Rating: 1.62
-Movie ID: 670, Average Rating: 3.00
-Movie ID: 671, Average Rating: 3.61
-Movie ID: 672, Average Rating: 2.72
-Movie ID: 673, Average Rating: 3.52
-Movie ID: 674, Average Rating: 2.90
-Movie ID: 675, Average Rating: 3.56
-Movie ID: 676, Average Rating: 3.34
-Movie ID: 677, Average Rating: 3.00
-Movie ID: 678, Average Rating: 2.81
-Movie ID: 679, Average Rating: 3.05
-Movie ID: 680, Average Rating: 2.56
-Movie ID: 681, Average Rating: 2.44
-Movie ID: 682, Average Rating: 3.06
-Movie ID: 683, Average Rating: 2.41
-Movie ID: 684, Average Rating: 3.79
-Movie ID: 685, Average Rating: 3.36
-Movie ID: 686, Average Rating: 3.68
-Movie ID: 687, Average Rating: 2.19
-Movie ID: 688, Average Rating: 1.84
-Movie ID: 689, Average Rating: 3.15
-Movie ID: 690, Average Rating: 3.46
-Movie ID: 691, Average Rating: 3.50
-Movie ID: 692, Average Rating: 3.63
-Movie ID: 693, Average Rating: 3.65
-Movie ID: 694, Average Rating: 4.05
-Movie ID: 695, Average Rating: 2.92
-Movie ID: 696, Average Rating: 3.14
-Movie ID: 697, Average Rating: 3.42
-Movie ID: 698, Average Rating: 3.00
-Movie ID: 699, Average Rating: 3.68
-Movie ID: 700, Average Rating: 2.60
-Movie ID: 701, Average Rating: 4.00
-Movie ID: 702, Average Rating: 3.02
-Movie ID: 703, Average Rating: 3.58
-Movie ID: 704, Average Rating: 3.04
-Movie ID: 705, Average Rating: 3.99
-Movie ID: 706, Average Rating: 2.67
-Movie ID: 707, Average Rating: 3.93
-Movie ID: 708, Average Rating: 3.48
-Movie ID: 709, Average Rating: 4.03
-Movie ID: 710, Average Rating: 3.57
-Movie ID: 711, Average Rating: 4.00
-Movie ID: 712, Average Rating: 3.08
-Movie ID: 713, Average Rating: 3.61
-Movie ID: 714, Average Rating: 3.23
-Movie ID: 715, Average Rating: 3.28
-Movie ID: 716, Average Rating: 3.16
-Movie ID: 717, Average Rating: 2.82
-Movie ID: 718, Average Rating: 3.69
-Movie ID: 719, Average Rating: 2.41
-Movie ID: 720, Average Rating: 3.02
-Movie ID: 721, Average Rating: 3.44
-Movie ID: 722, Average Rating: 2.93
-Movie ID: 723, Average Rating: 3.15
-Movie ID: 724, Average Rating: 3.49
-Movie ID: 725, Average Rating: 2.75
-Movie ID: 726, Average Rating: 2.43
-Movie ID: 727, Average Rating: 3.46
-Movie ID: 728, Average Rating: 3.02
-Movie ID: 729, Average Rating: 3.48
-Movie ID: 730, Average Rating: 3.50
-Movie ID: 731, Average Rating: 3.15
-Movie ID: 732, Average Rating: 3.65
-Movie ID: 733, Average Rating: 3.20
-Movie ID: 734, Average Rating: 2.52
-Movie ID: 735, Average Rating: 3.85
-Movie ID: 736, Average Rating: 3.94
-Movie ID: 737, Average Rating: 2.98
-Movie ID: 738, Average Rating: 2.84
-Movie ID: 739, Average Rating: 3.32
-Movie ID: 740, Average Rating: 3.48
-Movie ID: 741, Average Rating: 3.45
-Movie ID: 742, Average Rating: 3.64
-Movie ID: 743, Average Rating: 1.95
-Movie ID: 744, Average Rating: 3.46
-Movie ID: 745, Average Rating: 3.88
-Movie ID: 746, Average Rating: 3.66
-Movie ID: 747, Average Rating: 3.46
-Movie ID: 748, Average Rating: 3.12
-Movie ID: 749, Average Rating: 3.18
-Movie ID: 750, Average Rating: 3.85
-Movie ID: 751, Average Rating: 3.43
-Movie ID: 752, Average Rating: 3.31
-Movie ID: 753, Average Rating: 3.71
-Movie ID: 754, Average Rating: 3.39
-Movie ID: 755, Average Rating: 3.31
-Movie ID: 756, Average Rating: 2.90
-Movie ID: 757, Average Rating: 2.75
-Movie ID: 758, Average Rating: 1.71
-Movie ID: 759, Average Rating: 2.18
-Movie ID: 760, Average Rating: 2.65
-Movie ID: 761, Average Rating: 3.05
-Movie ID: 762, Average Rating: 3.39
-Movie ID: 763, Average Rating: 3.39
-Movie ID: 764, Average Rating: 2.76
-Movie ID: 765, Average Rating: 2.81
-Movie ID: 766, Average Rating: 3.11
-Movie ID: 767, Average Rating: 2.18
-Movie ID: 768, Average Rating: 3.08
-Movie ID: 769, Average Rating: 2.45
-Movie ID: 770, Average Rating: 3.39
-Movie ID: 771, Average Rating: 2.63
-Movie ID: 772, Average Rating: 3.06
-Movie ID: 773, Average Rating: 2.94
-Movie ID: 774, Average Rating: 2.94
-Movie ID: 775, Average Rating: 2.77
-Movie ID: 776, Average Rating: 3.22
-Movie ID: 777, Average Rating: 1.25
-Movie ID: 778, Average Rating: 3.55
-Movie ID: 779, Average Rating: 2.55
-Movie ID: 780, Average Rating: 3.00
-Movie ID: 781, Average Rating: 3.33
-Movie ID: 782, Average Rating: 2.60
-Movie ID: 783, Average Rating: 2.73
-Movie ID: 784, Average Rating: 1.00
-Movie ID: 785, Average Rating: 3.15
-Movie ID: 786, Average Rating: 2.64
-Movie ID: 787, Average Rating: 3.23
-Movie ID: 788, Average Rating: 1.67
-Movie ID: 789, Average Rating: 3.57
-Movie ID: 790, Average Rating: 2.91
-Movie ID: 791, Average Rating: 2.50
-Movie ID: 792, Average Rating: 3.72
-Movie ID: 793, Average Rating: 3.50
-Movie ID: 794, Average Rating: 3.65
-Movie ID: 795, Average Rating: 2.43
-Movie ID: 796, Average Rating: 3.08
-Movie ID: 797, Average Rating: 3.10
-Movie ID: 798, Average Rating: 2.22
-Movie ID: 799, Average Rating: 3.20
-Movie ID: 800, Average Rating: 2.88
-Movie ID: 801, Average Rating: 2.81
-Movie ID: 802, Average Rating: 2.70
-Movie ID: 803, Average Rating: 2.56
-Movie ID: 804, Average Rating: 2.88
-Movie ID: 805, Average Rating: 3.63
-Movie ID: 806, Average Rating: 3.46
-Movie ID: 807, Average Rating: 2.78
-Movie ID: 808, Average Rating: 2.84
-Movie ID: 809, Average Rating: 2.91
-Movie ID: 810, Average Rating: 2.89
-Movie ID: 811, Average Rating: 3.94
-Movie ID: 812, Average Rating: 3.11
-Movie ID: 813, Average Rating: 3.89
-Movie ID: 814, Average Rating: 5.00
-Movie ID: 815, Average Rating: 3.23
-Movie ID: 816, Average Rating: 2.43
-Movie ID: 817, Average Rating: 2.67
-Movie ID: 818, Average Rating: 2.76
-Movie ID: 819, Average Rating: 2.70
-Movie ID: 820, Average Rating: 2.77
-Movie ID: 821, Average Rating: 3.05
-Movie ID: 822, Average Rating: 3.00
-Movie ID: 823, Average Rating: 2.88
-Movie ID: 824, Average Rating: 2.76
-Movie ID: 825, Average Rating: 3.04
-Movie ID: 826, Average Rating: 2.58
-Movie ID: 827, Average Rating: 2.77
-Movie ID: 828, Average Rating: 2.69
-Movie ID: 829, Average Rating: 2.65
-Movie ID: 830, Average Rating: 1.00
-Movie ID: 831, Average Rating: 2.46
-Movie ID: 832, Average Rating: 2.55
-Movie ID: 833, Average Rating: 3.20
-Movie ID: 834, Average Rating: 2.20
-Movie ID: 835, Average Rating: 3.87
-Movie ID: 836, Average Rating: 3.77
-Movie ID: 837, Average Rating: 3.92
-Movie ID: 838, Average Rating: 2.75
-Movie ID: 839, Average Rating: 2.50
-Movie ID: 840, Average Rating: 2.66
-Movie ID: 841, Average Rating: 2.75
-Movie ID: 842, Average Rating: 3.15
-Movie ID: 843, Average Rating: 3.00
-Movie ID: 844, Average Rating: 3.36
-Movie ID: 845, Average Rating: 3.47
-Movie ID: 846, Average Rating: 3.07
-Movie ID: 847, Average Rating: 3.73
-Movie ID: 848, Average Rating: 3.56
-Movie ID: 849, Average Rating: 2.72
-Movie ID: 850, Average Rating: 4.00
-Movie ID: 851, Average Rating: 3.75
-Movie ID: 852, Average Rating: 1.00
-Movie ID: 853, Average Rating: 3.86
-Movie ID: 854, Average Rating: 3.38
-Movie ID: 855, Average Rating: 3.73
-Movie ID: 856, Average Rating: 3.83
-Movie ID: 857, Average Rating: 3.00
-Movie ID: 858, Average Rating: 1.00
-Movie ID: 859, Average Rating: 2.67
-Movie ID: 860, Average Rating: 2.25
-Movie ID: 861, Average Rating: 2.33
-Movie ID: 862, Average Rating: 2.11
-Movie ID: 863, Average Rating: 3.92
-Movie ID: 864, Average Rating: 3.16
-Movie ID: 865, Average Rating: 3.48
-Movie ID: 866, Average Rating: 3.32
-Movie ID: 867, Average Rating: 4.00
-Movie ID: 868, Average Rating: 3.80
-Movie ID: 869, Average Rating: 3.00
-Movie ID: 870, Average Rating: 2.78
-Movie ID: 871, Average Rating: 2.40
-Movie ID: 872, Average Rating: 3.10
-Movie ID: 873, Average Rating: 2.96
-Movie ID: 874, Average Rating: 3.26
-Movie ID: 875, Average Rating: 2.74
-Movie ID: 876, Average Rating: 2.70
-Movie ID: 877, Average Rating: 2.54
-Movie ID: 878, Average Rating: 2.52
-Movie ID: 879, Average Rating: 3.27
-Movie ID: 880, Average Rating: 3.17
-Movie ID: 881, Average Rating: 2.93
-Movie ID: 882, Average Rating: 3.29
-Movie ID: 883, Average Rating: 3.23
-Movie ID: 884, Average Rating: 3.29
-Movie ID: 885, Average Rating: 2.23
-Movie ID: 886, Average Rating: 3.08
-Movie ID: 887, Average Rating: 3.61
-Movie ID: 888, Average Rating: 3.47
-Movie ID: 889, Average Rating: 3.38
-Movie ID: 890, Average Rating: 1.95
-Movie ID: 891, Average Rating: 2.67
-Movie ID: 892, Average Rating: 2.75
-Movie ID: 893, Average Rating: 2.43
-Movie ID: 894, Average Rating: 1.89
-Movie ID: 895, Average Rating: 3.22
-Movie ID: 896, Average Rating: 3.77
-Movie ID: 897, Average Rating: 1.50
-Movie ID: 898, Average Rating: 3.22
-Movie ID: 899, Average Rating: 3.44
-Movie ID: 900, Average Rating: 3.69
-Movie ID: 901, Average Rating: 1.92
-Movie ID: 902, Average Rating: 3.83
-Movie ID: 903, Average Rating: 3.11
-Movie ID: 904, Average Rating: 3.45
-Movie ID: 905, Average Rating: 3.22
-Movie ID: 906, Average Rating: 3.19
-Movie ID: 907, Average Rating: 2.00
-Movie ID: 908, Average Rating: 2.50
-Movie ID: 909, Average Rating: 3.77
-Movie ID: 910, Average Rating: 2.00
-Movie ID: 911, Average Rating: 2.50
-Movie ID: 912, Average Rating: 3.00
-Movie ID: 913, Average Rating: 2.50
-Movie ID: 914, Average Rating: 2.73
-Movie ID: 915, Average Rating: 3.92
-Movie ID: 916, Average Rating: 3.17
-Movie ID: 917, Average Rating: 3.43
-Movie ID: 918, Average Rating: 3.00
-Movie ID: 919, Average Rating: 3.79
-Movie ID: 920, Average Rating: 2.20
-Movie ID: 921, Average Rating: 3.98
-Movie ID: 922, Average Rating: 3.82
-Movie ID: 923, Average Rating: 4.16
-Movie ID: 924, Average Rating: 3.40
-Movie ID: 925, Average Rating: 3.32
-Movie ID: 926, Average Rating: 2.70
-Movie ID: 927, Average Rating: 3.17
-Movie ID: 928, Average Rating: 3.12
-Movie ID: 929, Average Rating: 2.70
-Movie ID: 930, Average Rating: 2.70
-Movie ID: 931, Average Rating: 2.16
-Movie ID: 932, Average Rating: 2.92
-Movie ID: 933, Average Rating: 2.43
-Movie ID: 934, Average Rating: 2.93
-Movie ID: 935, Average Rating: 3.29
-Movie ID: 936, Average Rating: 3.94
-Movie ID: 937, Average Rating: 3.41
-Movie ID: 938, Average Rating: 2.88
-Movie ID: 939, Average Rating: 3.60
-Movie ID: 940, Average Rating: 2.34
-Movie ID: 941, Average Rating: 3.07
-Movie ID: 942, Average Rating: 3.49
-Movie ID: 943, Average Rating: 3.47
-Movie ID: 944, Average Rating: 3.00
-Movie ID: 945, Average Rating: 3.92
-Movie ID: 946, Average Rating: 3.15
-Movie ID: 947, Average Rating: 3.24
-Movie ID: 948, Average Rating: 2.17
-Movie ID: 949, Average Rating: 3.34
-Movie ID: 950, Average Rating: 2.90
-Movie ID: 951, Average Rating: 2.82
-Movie ID: 952, Average Rating: 3.18
-Movie ID: 953, Average Rating: 3.32
-Movie ID: 954, Average Rating: 3.55
-Movie ID: 955, Average Rating: 3.41
-Movie ID: 956, Average Rating: 3.61
-Movie ID: 957, Average Rating: 2.00
-Movie ID: 958, Average Rating: 3.79
-Movie ID: 959, Average Rating: 3.47
-Movie ID: 960, Average Rating: 3.24
-Movie ID: 961, Average Rating: 3.62
-Movie ID: 962, Average Rating: 3.13
-Movie ID: 963, Average Rating: 4.29
-Movie ID: 964, Average Rating: 3.33
-Movie ID: 965, Average Rating: 3.67
-Movie ID: 966, Average Rating: 4.19
-Movie ID: 967, Average Rating: 3.17
-Movie ID: 968, Average Rating: 3.72
-Movie ID: 969, Average Rating: 3.80
-Movie ID: 970, Average Rating: 3.25
-Movie ID: 971, Average Rating: 3.68
-Movie ID: 972, Average Rating: 3.18
-Movie ID: 973, Average Rating: 3.50
-Movie ID: 974, Average Rating: 3.03
-Movie ID: 975, Average Rating: 3.16
-Movie ID: 976, Average Rating: 1.83
-Movie ID: 977, Average Rating: 2.69
-Movie ID: 978, Average Rating: 2.52
-Movie ID: 979, Average Rating: 3.20
-Movie ID: 980, Average Rating: 3.18
-Movie ID: 981, Average Rating: 1.75
-Movie ID: 982, Average Rating: 2.80
-Movie ID: 983, Average Rating: 2.40
-Movie ID: 984, Average Rating: 2.86
-Movie ID: 985, Average Rating: 2.86
-Movie ID: 986, Average Rating: 2.57
-Movie ID: 987, Average Rating: 2.50
-Movie ID: 988, Average Rating: 2.31
-Movie ID: 989, Average Rating: 2.84
-Movie ID: 990, Average Rating: 3.09
-Movie ID: 991, Average Rating: 2.24
-Movie ID: 992, Average Rating: 3.00
-Movie ID: 993, Average Rating: 3.52
-Movie ID: 994, Average Rating: 2.29
-Movie ID: 995, Average Rating: 3.16
-Movie ID: 996, Average Rating: 2.50
-Movie ID: 997, Average Rating: 2.12
-Movie ID: 998, Average Rating: 2.56
-Movie ID: 999, Average Rating: 2.80
-Movie ID: 1000, Average Rating: 3.00
-Movie ID: 1001, Average Rating: 2.00
-Movie ID: 1002, Average Rating: 1.88
-Movie ID: 1003, Average Rating: 2.25
-Movie ID: 1004, Average Rating: 3.11
-Movie ID: 1005, Average Rating: 3.68
-Movie ID: 1006, Average Rating: 2.83
-Movie ID: 1007, Average Rating: 4.13
-Movie ID: 1008, Average Rating: 3.38
-Movie ID: 1009, Average Rating: 3.38
-Movie ID: 1010, Average Rating: 3.25
-Movie ID: 1011, Average Rating: 3.23
-Movie ID: 1012, Average Rating: 3.53
-Movie ID: 1013, Average Rating: 2.29
-Movie ID: 1014, Average Rating: 3.06
-Movie ID: 1015, Average Rating: 2.83
-Movie ID: 1016, Average Rating: 3.46
-Movie ID: 1017, Average Rating: 3.24
-Movie ID: 1018, Average Rating: 3.19
-Movie ID: 1019, Average Rating: 3.97
-Movie ID: 1020, Average Rating: 3.89
-Movie ID: 1021, Average Rating: 3.82
-Movie ID: 1022, Average Rating: 3.44
-Movie ID: 1023, Average Rating: 2.58
-Movie ID: 1024, Average Rating: 3.60
-Movie ID: 1025, Average Rating: 2.93
-Movie ID: 1026, Average Rating: 2.50
-Movie ID: 1027, Average Rating: 2.67
-Movie ID: 1028, Average Rating: 3.04
-Movie ID: 1029, Average Rating: 2.00
-Movie ID: 1030, Average Rating: 2.25
-Movie ID: 1031, Average Rating: 2.29
-Movie ID: 1032, Average Rating: 2.88
-Movie ID: 1033, Average Rating: 2.78
-Movie ID: 1034, Average Rating: 2.52
-Movie ID: 1035, Average Rating: 3.16
-Movie ID: 1036, Average Rating: 2.75
-Movie ID: 1037, Average Rating: 2.00
-Movie ID: 1038, Average Rating: 2.82
-Movie ID: 1039, Average Rating: 4.01
-Movie ID: 1040, Average Rating: 2.60
-Movie ID: 1041, Average Rating: 3.19
-Movie ID: 1042, Average Rating: 3.14
-Movie ID: 1043, Average Rating: 3.00
-Movie ID: 1044, Average Rating: 3.22
-Movie ID: 1045, Average Rating: 3.24
-Movie ID: 1046, Average Rating: 3.17
-Movie ID: 1047, Average Rating: 2.84
-Movie ID: 1048, Average Rating: 3.01
-Movie ID: 1049, Average Rating: 2.52
-Movie ID: 1050, Average Rating: 3.65
-Movie ID: 1051, Average Rating: 3.24
-Movie ID: 1052, Average Rating: 2.28
-Movie ID: 1053, Average Rating: 3.46
-Movie ID: 1054, Average Rating: 2.30
-Movie ID: 1055, Average Rating: 3.20
-Movie ID: 1056, Average Rating: 3.20
-Movie ID: 1057, Average Rating: 2.32
-Movie ID: 1058, Average Rating: 3.27
-Movie ID: 1059, Average Rating: 2.77
-Movie ID: 1060, Average Rating: 3.05
-Movie ID: 1061, Average Rating: 2.93
-Movie ID: 1062, Average Rating: 3.75
-Movie ID: 1063, Average Rating: 3.66
-Movie ID: 1064, Average Rating: 4.25
-Movie ID: 1065, Average Rating: 3.49
-Movie ID: 1066, Average Rating: 3.00
-Movie ID: 1067, Average Rating: 3.45
-Movie ID: 1068, Average Rating: 3.17
-Movie ID: 1069, Average Rating: 3.17
-Movie ID: 1070, Average Rating: 3.74
-Movie ID: 1071, Average Rating: 2.88
-Movie ID: 1072, Average Rating: 2.43
-Movie ID: 1073, Average Rating: 3.82
-Movie ID: 1074, Average Rating: 2.96
-Movie ID: 1075, Average Rating: 3.43
-Movie ID: 1076, Average Rating: 2.25
-Movie ID: 1077, Average Rating: 3.12
-Movie ID: 1078, Average Rating: 2.77
-Movie ID: 1079, Average Rating: 2.24
-Movie ID: 1080, Average Rating: 4.00
-Movie ID: 1081, Average Rating: 2.75
-Movie ID: 1082, Average Rating: 2.62
-Movie ID: 1083, Average Rating: 2.50
-Movie ID: 1084, Average Rating: 3.86
-Movie ID: 1085, Average Rating: 3.00
-Movie ID: 1086, Average Rating: 3.29
-Movie ID: 1087, Average Rating: 1.70
-Movie ID: 1088, Average Rating: 2.23
-Movie ID: 1089, Average Rating: 2.13
-Movie ID: 1090, Average Rating: 2.41
-Movie ID: 1091, Average Rating: 2.72
-Movie ID: 1092, Average Rating: 2.50
-Movie ID: 1093, Average Rating: 3.09
-Movie ID: 1094, Average Rating: 2.42
-Movie ID: 1095, Average Rating: 2.62
-Movie ID: 1096, Average Rating: 2.67
-Movie ID: 1097, Average Rating: 3.50
-Movie ID: 1098, Average Rating: 3.69
-Movie ID: 1099, Average Rating: 3.46
-Movie ID: 1100, Average Rating: 2.62
-Movie ID: 1101, Average Rating: 3.77
-Movie ID: 1102, Average Rating: 2.43
-Movie ID: 1103, Average Rating: 3.79
-Movie ID: 1104, Average Rating: 3.00
-Movie ID: 1105, Average Rating: 2.83
-Movie ID: 1106, Average Rating: 3.00
-Movie ID: 1107, Average Rating: 3.06
-Movie ID: 1108, Average Rating: 2.40
-Movie ID: 1109, Average Rating: 3.43
-Movie ID: 1110, Average Rating: 2.85
-Movie ID: 1111, Average Rating: 3.43
-Movie ID: 1112, Average Rating: 2.80
-Movie ID: 1113, Average Rating: 3.27
-Movie ID: 1114, Average Rating: 3.30
-Movie ID: 1115, Average Rating: 3.41
-Movie ID: 1116, Average Rating: 3.62
-Movie ID: 1117, Average Rating: 3.11
-Movie ID: 1118, Average Rating: 3.26
-Movie ID: 1119, Average Rating: 3.66
-Movie ID: 1120, Average Rating: 3.00
-Movie ID: 1121, Average Rating: 3.76
-Movie ID: 1122, Average Rating: 5.00
-Movie ID: 1123, Average Rating: 3.67
-Movie ID: 1124, Average Rating: 3.83
-Movie ID: 1125, Average Rating: 4.25
-Movie ID: 1126, Average Rating: 3.34
-Movie ID: 1127, Average Rating: 2.91
-Movie ID: 1128, Average Rating: 2.69
-Movie ID: 1129, Average Rating: 3.57
-Movie ID: 1130, Average Rating: 4.00
-Movie ID: 1131, Average Rating: 4.00
-Movie ID: 1132, Average Rating: 2.62
-Movie ID: 1133, Average Rating: 2.97
-Movie ID: 1134, Average Rating: 3.32
-Movie ID: 1135, Average Rating: 2.98
-Movie ID: 1136, Average Rating: 3.48
-Movie ID: 1137, Average Rating: 3.97
-Movie ID: 1138, Average Rating: 3.40
-Movie ID: 1139, Average Rating: 2.61
-Movie ID: 1140, Average Rating: 2.29
-Movie ID: 1141, Average Rating: 3.33
-Movie ID: 1142, Average Rating: 4.05
-Movie ID: 1143, Average Rating: 4.00
-Movie ID: 1144, Average Rating: 3.67
-Movie ID: 1145, Average Rating: 2.67
-Movie ID: 1146, Average Rating: 2.00
-Movie ID: 1147, Average Rating: 3.67
-Movie ID: 1148, Average Rating: 3.33
-Movie ID: 1149, Average Rating: 3.85
-Movie ID: 1150, Average Rating: 3.11
-Movie ID: 1151, Average Rating: 2.14
-Movie ID: 1152, Average Rating: 3.43
-Movie ID: 1153, Average Rating: 3.47
-Movie ID: 1154, Average Rating: 3.33
-Movie ID: 1155, Average Rating: 3.33
-Movie ID: 1156, Average Rating: 3.00
-Movie ID: 1157, Average Rating: 2.88
-Movie ID: 1158, Average Rating: 4.00
-Movie ID: 1159, Average Rating: 3.55
-Movie ID: 1160, Average Rating: 3.62
-Movie ID: 1161, Average Rating: 2.92
-Movie ID: 1162, Average Rating: 1.60
-Movie ID: 1163, Average Rating: 2.68
-Movie ID: 1164, Average Rating: 2.17
-Movie ID: 1165, Average Rating: 1.86
-Movie ID: 1166, Average Rating: 3.17
-Movie ID: 1167, Average Rating: 3.55
-Movie ID: 1168, Average Rating: 3.32
-Movie ID: 1169, Average Rating: 4.10
-Movie ID: 1170, Average Rating: 3.07
-Movie ID: 1171, Average Rating: 3.14
-Movie ID: 1172, Average Rating: 3.67
-Movie ID: 1173, Average Rating: 2.57
-Movie ID: 1174, Average Rating: 3.25
-Movie ID: 1175, Average Rating: 3.40
-Movie ID: 1176, Average Rating: 3.36
-Movie ID: 1177, Average Rating: 1.86
-Movie ID: 1178, Average Rating: 2.47
-Movie ID: 1179, Average Rating: 2.11
-Movie ID: 1180, Average Rating: 2.50
-Movie ID: 1181, Average Rating: 2.50
-Movie ID: 1182, Average Rating: 2.31
-Movie ID: 1183, Average Rating: 2.21
-Movie ID: 1184, Average Rating: 2.50
-Movie ID: 1185, Average Rating: 2.28
-Movie ID: 1186, Average Rating: 3.33
-Movie ID: 1187, Average Rating: 3.23
-Movie ID: 1188, Average Rating: 2.77
-Movie ID: 1189, Average Rating: 5.00
-Movie ID: 1190, Average Rating: 3.36
-Movie ID: 1191, Average Rating: 4.33
-Movie ID: 1192, Average Rating: 3.38
-Movie ID: 1193, Average Rating: 3.80
-Movie ID: 1194, Average Rating: 4.06
-Movie ID: 1195, Average Rating: 3.27
-Movie ID: 1196, Average Rating: 3.00
-Movie ID: 1197, Average Rating: 3.56
-Movie ID: 1198, Average Rating: 3.14
-Movie ID: 1199, Average Rating: 2.87
-Movie ID: 1200, Average Rating: 3.29
-Movie ID: 1201, Average Rating: 5.00
-Movie ID: 1202, Average Rating: 3.50
-Movie ID: 1203, Average Rating: 4.05
-Movie ID: 1204, Average Rating: 3.61
-Movie ID: 1205, Average Rating: 3.00
-Movie ID: 1206, Average Rating: 2.68
-Movie ID: 1207, Average Rating: 2.29
-Movie ID: 1208, Average Rating: 2.85
-Movie ID: 1209, Average Rating: 2.53
-Movie ID: 1210, Average Rating: 2.74
-Movie ID: 1211, Average Rating: 3.42
-Movie ID: 1212, Average Rating: 2.83
-Movie ID: 1213, Average Rating: 2.17
-Movie ID: 1214, Average Rating: 2.00
-Movie ID: 1215, Average Rating: 1.93
-Movie ID: 1216, Average Rating: 3.00
-Movie ID: 1217, Average Rating: 2.87
-Movie ID: 1218, Average Rating: 3.46
-Movie ID: 1219, Average Rating: 2.90
-Movie ID: 1220, Average Rating: 3.33
-Movie ID: 1221, Average Rating: 3.49
-Movie ID: 1222, Average Rating: 2.68
-Movie ID: 1223, Average Rating: 3.50
-Movie ID: 1224, Average Rating: 2.67
-Movie ID: 1225, Average Rating: 2.64
-Movie ID: 1226, Average Rating: 3.38
-Movie ID: 1227, Average Rating: 2.38
-Movie ID: 1228, Average Rating: 2.46
-Movie ID: 1229, Average Rating: 2.15
-Movie ID: 1230, Average Rating: 1.83
-Movie ID: 1231, Average Rating: 2.50
-Movie ID: 1232, Average Rating: 2.47
-Movie ID: 1233, Average Rating: 3.50
-Movie ID: 1234, Average Rating: 2.38
-Movie ID: 1235, Average Rating: 4.00
-Movie ID: 1236, Average Rating: 3.00
-Movie ID: 1237, Average Rating: 3.50
-Movie ID: 1238, Average Rating: 3.12
-Movie ID: 1239, Average Rating: 2.44
-Movie ID: 1240, Average Rating: 3.65
-Movie ID: 1241, Average Rating: 2.67
-Movie ID: 1242, Average Rating: 2.60
-Movie ID: 1243, Average Rating: 3.71
-Movie ID: 1244, Average Rating: 2.92
-Movie ID: 1245, Average Rating: 3.21
-Movie ID: 1246, Average Rating: 1.57
-Movie ID: 1247, Average Rating: 1.83
-Movie ID: 1248, Average Rating: 3.00
-Movie ID: 1249, Average Rating: 2.83
-Movie ID: 1250, Average Rating: 1.50
-Movie ID: 1251, Average Rating: 4.12
-Movie ID: 1252, Average Rating: 3.00
-Movie ID: 1253, Average Rating: 2.43
-Movie ID: 1254, Average Rating: 1.82
-Movie ID: 1255, Average Rating: 2.25
-Movie ID: 1256, Average Rating: 2.00
-Movie ID: 1257, Average Rating: 1.75
-Movie ID: 1258, Average Rating: 2.52
-Movie ID: 1259, Average Rating: 2.00
-Movie ID: 1260, Average Rating: 2.75
-Movie ID: 1261, Average Rating: 3.25
-Movie ID: 1262, Average Rating: 3.62
-Movie ID: 1263, Average Rating: 2.93
-Movie ID: 1264, Average Rating: 3.29
-Movie ID: 1265, Average Rating: 3.05
-Movie ID: 1266, Average Rating: 3.17
-Movie ID: 1267, Average Rating: 3.00
-Movie ID: 1268, Average Rating: 3.30
-Movie ID: 1269, Average Rating: 3.90
-Movie ID: 1270, Average Rating: 2.29
-Movie ID: 1271, Average Rating: 2.71
-Movie ID: 1272, Average Rating: 1.80
-Movie ID: 1273, Average Rating: 2.73
-Movie ID: 1274, Average Rating: 1.73
-Movie ID: 1275, Average Rating: 2.50
-Movie ID: 1276, Average Rating: 2.50
-Movie ID: 1277, Average Rating: 3.42
-Movie ID: 1278, Average Rating: 3.62
-Movie ID: 1279, Average Rating: 2.89
-Movie ID: 1280, Average Rating: 2.69
-Movie ID: 1281, Average Rating: 3.15
-Movie ID: 1282, Average Rating: 3.22
-Movie ID: 1283, Average Rating: 2.68
-Movie ID: 1284, Average Rating: 2.85
-Movie ID: 1285, Average Rating: 3.13
-Movie ID: 1286, Average Rating: 3.71
-Movie ID: 1287, Average Rating: 1.33
-Movie ID: 1288, Average Rating: 3.00
-Movie ID: 1289, Average Rating: 2.14
-Movie ID: 1290, Average Rating: 1.50
-Movie ID: 1291, Average Rating: 2.20
-Movie ID: 1292, Average Rating: 1.67
-Movie ID: 1293, Average Rating: 5.00
-Movie ID: 1294, Average Rating: 3.14
-Movie ID: 1295, Average Rating: 2.57
-Movie ID: 1296, Average Rating: 3.25
-Movie ID: 1297, Average Rating: 2.83
-Movie ID: 1298, Average Rating: 3.67
-Movie ID: 1299, Average Rating: 3.00
-Movie ID: 1300, Average Rating: 2.33
-Movie ID: 1301, Average Rating: 3.80
-Movie ID: 1302, Average Rating: 3.40
-Movie ID: 1303, Average Rating: 2.33
-Movie ID: 1304, Average Rating: 2.50
-Movie ID: 1305, Average Rating: 2.43
-Movie ID: 1306, Average Rating: 3.00
-Movie ID: 1307, Average Rating: 1.50
-Movie ID: 1308, Average Rating: 1.00
-Movie ID: 1309, Average Rating: 1.00
-Movie ID: 1310, Average Rating: 3.00
-Movie ID: 1311, Average Rating: 2.50
-Movie ID: 1312, Average Rating: 3.00
-Movie ID: 1313, Average Rating: 3.14
-Movie ID: 1314, Average Rating: 2.45
-Movie ID: 1315, Average Rating: 3.13
-Movie ID: 1316, Average Rating: 2.71
-Movie ID: 1317, Average Rating: 2.00
-Movie ID: 1318, Average Rating: 1.33
-Movie ID: 1319, Average Rating: 1.75
-Movie ID: 1320, Average Rating: 1.00
-Movie ID: 1321, Average Rating: 2.50
-Movie ID: 1322, Average Rating: 2.33
-Movie ID: 1323, Average Rating: 2.67
-Movie ID: 1324, Average Rating: 2.40
-Movie ID: 1325, Average Rating: 1.00
-Movie ID: 1326, Average Rating: 3.33
-Movie ID: 1327, Average Rating: 2.33
-Movie ID: 1328, Average Rating: 3.17
-Movie ID: 1329, Average Rating: 1.00
-Movie ID: 1330, Average Rating: 2.50
-Movie ID: 1331, Average Rating: 3.00
-Movie ID: 1332, Average Rating: 2.00
-Movie ID: 1333, Average Rating: 2.80
-Movie ID: 1334, Average Rating: 1.00
-Movie ID: 1335, Average Rating: 2.64
-Movie ID: 1336, Average Rating: 1.80
-Movie ID: 1337, Average Rating: 2.33
-Movie ID: 1338, Average Rating: 2.25
-Movie ID: 1339, Average Rating: 1.00
-Movie ID: 1340, Average Rating: 1.00
-Movie ID: 1341, Average Rating: 1.00
-Movie ID: 1342, Average Rating: 2.50
-Movie ID: 1343, Average Rating: 1.00
-Movie ID: 1344, Average Rating: 3.20
-Movie ID: 1345, Average Rating: 2.00
-Movie ID: 1346, Average Rating: 2.40
-Movie ID: 1347, Average Rating: 2.75
-Movie ID: 1348, Average Rating: 1.00
-Movie ID: 1349, Average Rating: 1.00
-Movie ID: 1350, Average Rating: 1.50
-Movie ID: 1351, Average Rating: 2.00
-Movie ID: 1352, Average Rating: 1.00
-Movie ID: 1353, Average Rating: 2.60
-Movie ID: 1354, Average Rating: 1.00
-Movie ID: 1355, Average Rating: 2.67
-Movie ID: 1356, Average Rating: 2.67
-Movie ID: 1357, Average Rating: 2.67
-Movie ID: 1358, Average Rating: 3.00
-Movie ID: 1359, Average Rating: 1.00
-Movie ID: 1360, Average Rating: 1.50
-Movie ID: 1361, Average Rating: 2.67
-Movie ID: 1362, Average Rating: 2.00
-Movie ID: 1363, Average Rating: 1.00
-Movie ID: 1364, Average Rating: 1.00
-Movie ID: 1365, Average Rating: 1.50
-Movie ID: 1366, Average Rating: 1.00
-Movie ID: 1367, Average Rating: 4.20
-Movie ID: 1368, Average Rating: 3.67
-Movie ID: 1369, Average Rating: 2.75
-Movie ID: 1370, Average Rating: 2.67
-Movie ID: 1371, Average Rating: 1.50
-Movie ID: 1372, Average Rating: 3.00
-Movie ID: 1373, Average Rating: 1.00
-Movie ID: 1374, Average Rating: 1.00
-Movie ID: 1375, Average Rating: 3.60
-Movie ID: 1376, Average Rating: 2.14
-Movie ID: 1377, Average Rating: 3.25
-Movie ID: 1378, Average Rating: 2.20
-Movie ID: 1379, Average Rating: 2.86
-Movie ID: 1380, Average Rating: 2.33
-Movie ID: 1381, Average Rating: 3.25
-Movie ID: 1382, Average Rating: 2.00
-Movie ID: 1383, Average Rating: 2.00
-Movie ID: 1384, Average Rating: 1.67
-Movie ID: 1385, Average Rating: 2.80
-Movie ID: 1386, Average Rating: 2.67
-Movie ID: 1387, Average Rating: 2.00
-Movie ID: 1388, Average Rating: 3.33
-Movie ID: 1389, Average Rating: 3.00
-Movie ID: 1390, Average Rating: 2.00
-Movie ID: 1391, Average Rating: 2.00
-Movie ID: 1392, Average Rating: 2.00
-Movie ID: 1393, Average Rating: 2.11
-Movie ID: 1394, Average Rating: 2.43
-Movie ID: 1395, Average Rating: 2.33
-Movie ID: 1396, Average Rating: 4.20
-Movie ID: 1397, Average Rating: 3.20
-Movie ID: 1398, Average Rating: 4.50
-Movie ID: 1399, Average Rating: 2.43
-Movie ID: 1400, Average Rating: 3.10
-Movie ID: 1401, Average Rating: 3.22
-Movie ID: 1402, Average Rating: 2.75
-Movie ID: 1403, Average Rating: 2.75
-Movie ID: 1404, Average Rating: 3.23
-Movie ID: 1405, Average Rating: 3.33
-Movie ID: 1406, Average Rating: 3.40
-Movie ID: 1407, Average Rating: 2.25
-Movie ID: 1408, Average Rating: 1.00
-Movie ID: 1409, Average Rating: 2.86
-Movie ID: 1410, Average Rating: 2.75
-Movie ID: 1411, Average Rating: 2.57
-Movie ID: 1412, Average Rating: 1.67
-Movie ID: 1413, Average Rating: 2.75
-Movie ID: 1414, Average Rating: 2.00
-Movie ID: 1415, Average Rating: 2.44
-Movie ID: 1416, Average Rating: 2.40
-Movie ID: 1417, Average Rating: 2.50
-Movie ID: 1418, Average Rating: 3.67
-Movie ID: 1419, Average Rating: 2.12
-Movie ID: 1420, Average Rating: 1.33
-Movie ID: 1421, Average Rating: 3.18
-Movie ID: 1422, Average Rating: 2.25
-Movie ID: 1423, Average Rating: 2.25
-Movie ID: 1424, Average Rating: 2.33
-Movie ID: 1425, Average Rating: 2.60
-Movie ID: 1426, Average Rating: 3.25
-Movie ID: 1427, Average Rating: 2.80
-Movie ID: 1428, Average Rating: 3.67
-Movie ID: 1429, Average Rating: 2.75
-Movie ID: 1430, Average Rating: 2.33
-Movie ID: 1431, Average Rating: 3.40
-Movie ID: 1432, Average Rating: 1.00
-Movie ID: 1433, Average Rating: 2.00
-Movie ID: 1434, Average Rating: 2.50
-Movie ID: 1435, Average Rating: 2.57
-Movie ID: 1436, Average Rating: 2.50
-Movie ID: 1437, Average Rating: 2.00
-Movie ID: 1438, Average Rating: 2.40
-Movie ID: 1439, Average Rating: 3.00
-Movie ID: 1440, Average Rating: 3.00
-Movie ID: 1441, Average Rating: 2.57
-Movie ID: 1442, Average Rating: 2.40
-Movie ID: 1443, Average Rating: 3.75
-Movie ID: 1444, Average Rating: 2.47
-Movie ID: 1445, Average Rating: 2.75
-Movie ID: 1446, Average Rating: 3.13
-Movie ID: 1447, Average Rating: 3.00
-Movie ID: 1448, Average Rating: 3.67
-Movie ID: 1449, Average Rating: 4.62
-Movie ID: 1450, Average Rating: 4.00
-Movie ID: 1451, Average Rating: 3.87
-Movie ID: 1452, Average Rating: 4.00
-Movie ID: 1453, Average Rating: 2.00
-Movie ID: 1454, Average Rating: 3.00
-Movie ID: 1455, Average Rating: 2.50
-Movie ID: 1456, Average Rating: 3.71
-Movie ID: 1457, Average Rating: 3.00
-Movie ID: 1458, Average Rating: 4.00
-Movie ID: 1459, Average Rating: 3.57
-Movie ID: 1460, Average Rating: 3.00
-Movie ID: 1461, Average Rating: 2.00
-Movie ID: 1462, Average Rating: 3.71
-Movie ID: 1463, Average Rating: 3.33
-Movie ID: 1464, Average Rating: 2.33
-Movie ID: 1465, Average Rating: 2.33
-Movie ID: 1466, Average Rating: 4.00
-Movie ID: 1467, Average Rating: 5.00
-Movie ID: 1468, Average Rating: 3.33
-Movie ID: 1469, Average Rating: 3.17
-Movie ID: 1470, Average Rating: 2.60
-Movie ID: 1471, Average Rating: 2.44
-Movie ID: 1472, Average Rating: 3.50
-Movie ID: 1473, Average Rating: 3.56
-Movie ID: 1474, Average Rating: 2.83
-Movie ID: 1475, Average Rating: 2.88
-Movie ID: 1476, Average Rating: 2.00
-Movie ID: 1477, Average Rating: 2.50
-Movie ID: 1478, Average Rating: 2.72
-Movie ID: 1479, Average Rating: 2.75
-Movie ID: 1480, Average Rating: 2.27
-Movie ID: 1481, Average Rating: 3.00
-Movie ID: 1482, Average Rating: 4.00
-Movie ID: 1483, Average Rating: 3.42
-Movie ID: 1484, Average Rating: 2.67
-Movie ID: 1485, Average Rating: 3.50
-Movie ID: 1486, Average Rating: 1.00
-Movie ID: 1487, Average Rating: 2.00
-Movie ID: 1488, Average Rating: 3.00
-Movie ID: 1489, Average Rating: 2.20
-Movie ID: 1490, Average Rating: 3.00
-Movie ID: 1491, Average Rating: 3.00
-Movie ID: 1492, Average Rating: 4.00
-Movie ID: 1493, Average Rating: 1.00
-Movie ID: 1494, Average Rating: 1.00
-Movie ID: 1495, Average Rating: 3.60
-Movie ID: 1496, Average Rating: 2.80
-Movie ID: 1497, Average Rating: 3.00
-Movie ID: 1498, Average Rating: 4.00
-Movie ID: 1499, Average Rating: 3.25
-Movie ID: 1500, Average Rating: 5.00
-Movie ID: 1501, Average Rating: 3.00
-Movie ID: 1502, Average Rating: 1.50
-Movie ID: 1503, Average Rating: 3.10
-Movie ID: 1504, Average Rating: 3.67
-Movie ID: 1505, Average Rating: 4.00
-Movie ID: 1506, Average Rating: 3.67
-Movie ID: 1507, Average Rating: 3.00
-Movie ID: 1508, Average Rating: 2.33
-Movie ID: 1509, Average Rating: 1.60
-Movie ID: 1510, Average Rating: 3.00
-Movie ID: 1511, Average Rating: 3.20
-Movie ID: 1512, Average Rating: 4.00
-Movie ID: 1513, Average Rating: 2.00
-Movie ID: 1514, Average Rating: 3.14
-Movie ID: 1515, Average Rating: 4.00
-Movie ID: 1516, Average Rating: 4.00
-Movie ID: 1517, Average Rating: 2.80
-Movie ID: 1518, Average Rating: 3.00
-Movie ID: 1519, Average Rating: 3.00
-Movie ID: 1520, Average Rating: 3.00
-Movie ID: 1521, Average Rating: 3.00
-Movie ID: 1522, Average Rating: 2.43
-Movie ID: 1523, Average Rating: 3.00
-Movie ID: 1524, Average Rating: 4.25
-Movie ID: 1525, Average Rating: 4.00
-Movie ID: 1526, Average Rating: 4.00
-Movie ID: 1527, Average Rating: 2.43
-Movie ID: 1528, Average Rating: 2.33
-Movie ID: 1529, Average Rating: 2.80
-Movie ID: 1530, Average Rating: 2.00
-Movie ID: 1531, Average Rating: 3.29
-Movie ID: 1532, Average Rating: 2.00
-Movie ID: 1533, Average Rating: 4.00
-Movie ID: 1534, Average Rating: 2.17
-Movie ID: 1535, Average Rating: 3.00
-Movie ID: 1536, Average Rating: 5.00
-Movie ID: 1537, Average Rating: 4.00
-Movie ID: 1538, Average Rating: 3.00
-Movie ID: 1539, Average Rating: 1.75
-Movie ID: 1540, Average Rating: 2.80
-Movie ID: 1541, Average Rating: 3.50
-Movie ID: 1542, Average Rating: 3.00
-Movie ID: 1543, Average Rating: 3.00
-Movie ID: 1544, Average Rating: 2.67
-Movie ID: 1545, Average Rating: 2.50
-Movie ID: 1546, Average Rating: 1.00
-Movie ID: 1547, Average Rating: 3.00
-Movie ID: 1548, Average Rating: 1.00
-Movie ID: 1549, Average Rating: 1.50
-Movie ID: 1550, Average Rating: 3.00
-Movie ID: 1551, Average Rating: 2.00
-Movie ID: 1552, Average Rating: 2.00
-Movie ID: 1553, Average Rating: 2.75
-Movie ID: 1554, Average Rating: 3.00
-Movie ID: 1555, Average Rating: 2.60
-Movie ID: 1556, Average Rating: 2.00
-Movie ID: 1557, Average Rating: 1.00
-Movie ID: 1558, Average Rating: 3.57
-Movie ID: 1559, Average Rating: 1.00
-Movie ID: 1560, Average Rating: 2.75
-Movie ID: 1561, Average Rating: 1.00
-Movie ID: 1562, Average Rating: 1.00
-Movie ID: 1563, Average Rating: 1.00
-Movie ID: 1564, Average Rating: 1.00
-Movie ID: 1565, Average Rating: 1.00
-Movie ID: 1566, Average Rating: 1.00
-Movie ID: 1567, Average Rating: 1.00
-Movie ID: 1568, Average Rating: 1.00
-Movie ID: 1569, Average Rating: 1.00
-Movie ID: 1570, Average Rating: 1.00
-Movie ID: 1571, Average Rating: 1.00
-Movie ID: 1572, Average Rating: 1.00
-Movie ID: 1573, Average Rating: 2.50
-Movie ID: 1574, Average Rating: 1.00
-Movie ID: 1575, Average Rating: 1.00
-Movie ID: 1576, Average Rating: 1.00
-Movie ID: 1577, Average Rating: 1.00
-Movie ID: 1578, Average Rating: 2.00
-Movie ID: 1579, Average Rating: 1.00
-Movie ID: 1580, Average Rating: 1.00
-Movie ID: 1581, Average Rating: 1.00
-Movie ID: 1582, Average Rating: 1.00
-Movie ID: 1583, Average Rating: 1.00
-Movie ID: 1584, Average Rating: 1.00
-Movie ID: 1585, Average Rating: 2.50
-Movie ID: 1586, Average Rating: 1.00
-Movie ID: 1587, Average Rating: 1.00
-Movie ID: 1588, Average Rating: 2.00
-Movie ID: 1589, Average Rating: 3.00
-Movie ID: 1590, Average Rating: 2.00
-Movie ID: 1591, Average Rating: 3.17
-Movie ID: 1592, Average Rating: 3.60
-Movie ID: 1593, Average Rating: 4.00
-Movie ID: 1594, Average Rating: 4.50
-Movie ID: 1595, Average Rating: 2.00
-Movie ID: 1596, Average Rating: 2.00
-Movie ID: 1597, Average Rating: 3.00
-Movie ID: 1598, Average Rating: 2.50
-Movie ID: 1599, Average Rating: 5.00
-Movie ID: 1600, Average Rating: 3.75
-Movie ID: 1601, Average Rating: 1.00
-Movie ID: 1602, Average Rating: 3.33
-Movie ID: 1603, Average Rating: 3.00
-Movie ID: 1604, Average Rating: 4.00
-Movie ID: 1605, Average Rating: 3.00
-Movie ID: 1606, Average Rating: 2.00
-Movie ID: 1607, Average Rating: 3.33
-Movie ID: 1608, Average Rating: 2.25
-Movie ID: 1609, Average Rating: 1.67
-Movie ID: 1610, Average Rating: 2.00
-Movie ID: 1611, Average Rating: 3.00
-Movie ID: 1612, Average Rating: 3.75
-Movie ID: 1613, Average Rating: 4.00
-Movie ID: 1614, Average Rating: 3.00
-Movie ID: 1615, Average Rating: 3.00
-Movie ID: 1616, Average Rating: 4.00
-Movie ID: 1617, Average Rating: 3.00
-Movie ID: 1618, Average Rating: 1.00
-Movie ID: 1619, Average Rating: 3.00
-Movie ID: 1620, Average Rating: 3.22
-Movie ID: 1621, Average Rating: 1.00
-Movie ID: 1622, Average Rating: 2.33
-Movie ID: 1623, Average Rating: 4.00
-Movie ID: 1624, Average Rating: 2.00
-Movie ID: 1625, Average Rating: 4.00
-Movie ID: 1626, Average Rating: 1.00
-Movie ID: 1627, Average Rating: 3.00
-Movie ID: 1628, Average Rating: 3.75
-Movie ID: 1629, Average Rating: 4.00
-Movie ID: 1630, Average Rating: 3.00
-Movie ID: 1631, Average Rating: 3.50
-Movie ID: 1632, Average Rating: 3.00
-Movie ID: 1633, Average Rating: 3.00
-Movie ID: 1634, Average Rating: 2.00
-Movie ID: 1635, Average Rating: 3.00
-Movie ID: 1636, Average Rating: 4.00
-Movie ID: 1637, Average Rating: 3.00
-Movie ID: 1638, Average Rating: 3.00
-Movie ID: 1639, Average Rating: 4.33
-Movie ID: 1640, Average Rating: 3.00
-Movie ID: 1641, Average Rating: 3.00
-Movie ID: 1642, Average Rating: 4.50
-Movie ID: 1643, Average Rating: 3.75
-Movie ID: 1644, Average Rating: 1.50
-Movie ID: 1645, Average Rating: 4.00
-Movie ID: 1646, Average Rating: 3.50
-Movie ID: 1647, Average Rating: 3.00
-Movie ID: 1648, Average Rating: 2.00
-Movie ID: 1649, Average Rating: 3.00
-Movie ID: 1650, Average Rating: 4.00
-Movie ID: 1651, Average Rating: 4.00
-Movie ID: 1652, Average Rating: 1.67
-Movie ID: 1653, Average Rating: 5.00
-Movie ID: 1654, Average Rating: 1.00
-Movie ID: 1655, Average Rating: 2.00
-Movie ID: 1656, Average Rating: 3.50
-Movie ID: 1657, Average Rating: 3.00
-Movie ID: 1658, Average Rating: 3.00
-Movie ID: 1659, Average Rating: 1.00
-Movie ID: 1660, Average Rating: 2.00
-Movie ID: 1661, Average Rating: 1.00
-Movie ID: 1662, Average Rating: 2.50
-Movie ID: 1663, Average Rating: 2.00
-Movie ID: 1664, Average Rating: 3.25
-Movie ID: 1665, Average Rating: 2.00
-Movie ID: 1666, Average Rating: 2.00
-Movie ID: 1667, Average Rating: 3.00
-Movie ID: 1668, Average Rating: 3.00
-Movie ID: 1669, Average Rating: 2.00
-Movie ID: 1670, Average Rating: 3.00
-Movie ID: 1671, Average Rating: 1.00
-Movie ID: 1672, Average Rating: 2.00
-Movie ID: 1673, Average Rating: 3.00
-Movie ID: 1674, Average Rating: 4.00
-Movie ID: 1675, Average Rating: 3.00
-Movie ID: 1676, Average Rating: 2.00
-Movie ID: 1677, Average Rating: 3.00
-Movie ID: 1678, Average Rating: 1.00
-Movie ID: 1679, Average Rating: 3.00
-Movie ID: 1680, Average Rating: 2.00
-Movie ID: 1681, Average Rating: 3.00
+MovieID	Average Rating
+1	3.88
+2	3.21
+3	3.03
+4	3.55
+5	3.30
+6	3.58
+7	3.80
+8	4.00
+9	3.90
+10	3.83
+11	3.85
+12	4.39
+13	3.42
+14	3.97
+15	3.78
+16	3.21
+17	3.12
+18	2.80
+19	3.96
+20	3.42
+21	2.76
+22	4.15
+23	4.12
+24	3.45
+25	3.44
+26	3.45
+27	3.11
+28	3.93
+29	2.67
+30	3.95
+31	3.63
+32	3.79
+33	3.45
+34	2.71
+35	2.18
+36	2.15
+37	2.25
+38	3.01
+39	3.26
+40	2.89
+41	3.08
+42	3.80
+43	3.00
+44	3.34
+45	4.05
+46	3.56
+47	3.60
+48	4.09
+49	3.32
+50	4.36
+51	3.46
+52	3.77
+53	2.95
+54	3.24
+55	3.70
+56	4.06
+57	4.00
+58	3.65
+59	4.06
+60	4.02
+61	3.86
+62	3.14
+63	3.10
+64	4.45
+65	3.54
+66	3.55
+67	3.05
+68	3.42
+69	3.85
+70	3.66
+71	3.78
+72	3.19
+73	3.47
+74	3.00
+75	3.00
+76	3.41
+77	3.28
+78	2.45
+79	4.04
+80	2.76
+81	3.55
+82	3.72
+83	4.06
+84	3.00
+85	3.03
+86	3.94
+87	3.91
+88	3.54
+89	4.14
+90	3.05
+91	3.59
+92	3.62
+93	3.72
+94	3.09
+95	3.81
+96	4.01
+97	3.79
+98	4.29
+99	3.71
+100	4.16
+101	3.26
+102	3.13
+103	1.87
+104	1.40
+105	2.57
+106	2.89
+107	3.50
+108	3.08
+109	3.43
+110	2.52
+111	3.49
+112	2.45
+113	4.11
+114	4.45
+115	3.73
+116	3.82
+117	3.69
+118	3.22
+119	4.50
+120	2.24
+121	3.44
+122	2.34
+123	3.23
+124	4.05
+125	3.56
+126	3.80
+127	4.28
+128	3.54
+129	3.82
+130	2.26
+131	3.73
+132	4.08
+133	3.87
+134	4.29
+135	3.97
+136	4.12
+137	3.90
+138	2.58
+139	2.78
+140	3.21
+141	3.50
+142	3.07
+143	3.77
+144	3.87
+145	2.45
+146	2.50
+147	3.47
+148	3.20
+149	3.00
+150	3.83
+151	3.63
+152	3.63
+153	3.79
+154	3.75
+155	3.10
+156	3.99
+157	3.69
+158	2.62
+159	3.23
+160	3.46
+161	3.48
+162	3.56
+163	3.55
+164	3.59
+165	4.11
+166	4.12
+167	2.96
+168	4.07
+169	4.47
+170	4.17
+171	3.88
+172	4.20
+173	4.17
+174	4.25
+175	3.82
+176	3.95
+177	3.86
+178	4.34
+179	3.91
+180	4.05
+181	4.01
+182	3.95
+183	4.03
+184	3.43
+185	4.10
+186	3.84
+187	4.19
+188	3.68
+189	4.11
+190	4.14
+191	4.16
+192	4.12
+193	3.92
+194	4.06
+195	3.93
+196	3.92
+197	4.10
+198	4.01
+199	4.18
+200	3.83
+201	3.52
+202	3.76
+203	3.87
+204	3.83
+205	3.99
+206	3.38
+207	3.82
+208	3.94
+209	3.91
+210	3.93
+211	3.91
+212	3.46
+213	3.99
+214	3.35
+215	3.70
+216	3.91
+217	3.16
+218	3.46
+219	3.17
+220	3.36
+221	3.73
+222	3.66
+223	4.20
+224	3.70
+225	2.91
+226	3.36
+227	3.28
+228	3.82
+229	3.11
+230	3.45
+231	2.68
+232	3.21
+233	3.29
+234	3.77
+235	2.85
+236	3.62
+237	3.71
+238	3.88
+239	3.51
+240	2.79
+241	3.55
+242	3.99
+243	2.44
+244	3.17
+245	3.11
+246	3.94
+247	1.80
+248	3.67
+249	3.25
+250	3.48
+251	4.26
+252	2.94
+253	3.69
+254	2.45
+255	3.36
+256	3.56
+257	3.75
+258	3.80
+259	2.69
+260	2.57
+261	2.56
+262	3.71
+263	2.16
+264	2.74
+265	3.86
+266	2.71
+267	3.44
+268	3.79
+269	3.93
+270	3.60
+271	3.23
+272	4.26
+273	3.57
+274	3.50
+275	4.01
+276	3.70
+277	3.46
+278	3.23
+279	3.29
+280	3.19
+281	3.14
+282	3.69
+283	3.72
+284	3.16
+285	4.27
+286	3.66
+287	3.59
+288	3.44
+289	2.98
+290	3.11
+291	3.37
+292	3.67
+293	3.80
+294	3.16
+295	3.40
+296	3.33
+297	3.98
+298	3.77
+299	2.93
+300	3.63
+301	3.30
+302	4.16
+303	3.69
+304	3.54
+305	3.64
+306	3.95
+307	3.52
+308	2.97
+309	2.86
+310	3.60
+311	3.68
+312	3.16
+313	4.25
+314	1.00
+315	4.10
+316	4.20
+317	3.91
+318	4.47
+319	3.27
+320	4.05
+321	3.13
+322	3.09
+323	2.93
+324	3.14
+325	2.55
+326	3.36
+327	3.38
+328	3.42
+329	3.33
+330	3.02
+331	3.54
+332	3.46
+333	3.59
+334	3.36
+335	2.76
+336	2.63
+337	3.00
+338	2.66
+339	3.26
+340	3.59
+341	3.09
+342	2.92
+343	3.10
+344	3.65
+345	3.40
+346	3.64
+347	3.51
+348	3.30
+349	2.90
+350	3.15
+351	2.70
+352	2.12
+353	2.43
+354	3.49
+355	2.93
+356	3.38
+357	4.29
+358	2.62
+359	3.50
+360	3.20
+361	3.50
+362	2.82
+363	2.72
+364	2.68
+365	3.21
+366	3.34
+367	3.46
+368	1.90
+369	2.64
+370	2.82
+371	3.16
+372	3.53
+373	2.90
+374	2.27
+375	1.96
+376	2.83
+377	2.15
+378	3.72
+379	2.98
+380	3.34
+381	3.55
+382	3.59
+383	2.06
+384	2.78
+385	3.56
+386	2.82
+387	3.38
+388	2.39
+389	3.44
+390	3.20
+391	2.75
+392	3.54
+393	3.41
+394	3.33
+395	2.59
+396	2.81
+397	2.58
+398	2.08
+399	3.30
+400	2.72
+401	2.80
+402	3.46
+403	3.43
+404	3.67
+405	3.31
+406	2.45
+407	2.51
+408	4.49
+409	3.14
+410	3.13
+411	2.91
+412	2.40
+413	2.64
+414	3.53
+415	2.84
+416	3.48
+417	3.10
+418	3.58
+419	3.72
+420	3.67
+421	3.59
+422	2.85
+423	3.83
+424	1.32
+425	3.74
+426	2.84
+427	4.29
+428	3.82
+429	3.94
+430	4.00
+431	3.54
+432	3.77
+433	3.69
+434	3.84
+435	3.95
+436	3.54
+437	1.00
+438	1.17
+439	1.00
+440	1.64
+441	2.57
+442	1.25
+443	3.81
+444	2.72
+445	3.50
+446	2.44
+447	3.50
+448	3.39
+449	3.03
+450	2.40
+451	3.35
+452	2.67
+453	1.94
+454	2.88
+455	3.26
+456	2.31
+457	1.74
+458	3.12
+459	3.75
+460	3.00
+461	3.62
+462	3.80
+463	3.86
+464	3.59
+465	3.56
+466	3.60
+467	3.79
+468	3.31
+469	3.78
+470	3.67
+471	3.61
+472	3.08
+473	3.13
+474	4.25
+475	3.88
+476	3.02
+477	3.21
+478	4.12
+479	4.25
+480	4.28
+481	3.94
+482	3.98
+483	4.46
+484	4.21
+485	3.82
+486	3.80
+487	4.10
+488	4.20
+489	4.12
+490	4.02
+491	3.79
+492	3.86
+493	4.15
+494	4.00
+495	3.66
+496	4.12
+497	3.84
+498	4.18
+499	3.95
+500	3.90
+501	3.50
+502	3.70
+503	3.64
+504	3.82
+505	4.00
+506	3.86
+507	3.82
+508	3.60
+509	3.85
+510	3.94
+511	4.23
+512	4.00
+513	4.33
+514	3.91
+515	4.20
+516	3.97
+517	3.77
+518	3.65
+519	4.10
+520	4.10
+521	3.83
+522	3.77
+523	3.99
+524	4.02
+525	4.03
+526	3.83
+527	4.02
+528	4.13
+529	3.98
+530	4.03
+531	3.92
+532	3.32
+533	3.67
+534	3.31
+535	3.17
+536	3.30
+537	3.63
+538	3.42
+539	2.48
+540	2.51
+541	2.88
+542	2.53
+543	3.62
+544	3.15
+545	1.83
+546	3.03
+547	3.34
+548	2.17
+549	3.57
+550	3.28
+551	2.42
+552	2.87
+553	3.29
+554	2.80
+555	2.00
+556	2.50
+557	3.12
+558	3.67
+559	3.18
+560	2.73
+561	3.07
+562	3.21
+563	2.41
+564	2.04
+565	2.68
+566	3.57
+567	2.80
+568	3.65
+569	2.70
+570	3.10
+571	2.50
+572	2.76
+573	2.94
+574	2.20
+575	2.55
+576	3.02
+577	2.22
+578	3.15
+579	2.63
+580	3.38
+581	3.22
+582	3.60
+583	3.00
+584	3.54
+585	2.49
+586	2.68
+587	3.57
+588	3.79
+589	4.02
+590	2.00
+591	3.60
+592	3.33
+593	3.17
+594	2.40
+595	3.09
+596	3.38
+597	3.15
+598	2.25
+599	1.00
+600	3.00
+601	4.00
+602	3.70
+603	4.39
+604	4.01
+605	3.35
+606	4.05
+607	3.97
+608	3.93
+609	3.58
+610	3.66
+611	4.10
+612	3.94
+613	4.04
+614	3.75
+615	4.05
+616	3.42
+617	3.78
+618	3.61
+619	3.17
+620	3.09
+621	2.91
+622	3.36
+623	2.92
+624	3.27
+625	3.33
+626	3.25
+627	3.23
+628	3.51
+629	3.34
+630	3.29
+631	3.62
+632	3.90
+633	4.06
+634	3.75
+635	2.74
+636	3.24
+637	3.03
+638	3.77
+639	3.70
+640	3.02
+641	4.21
+642	3.48
+643	3.00
+644	3.77
+645	3.81
+646	3.87
+647	4.10
+648	4.03
+649	3.40
+650	3.54
+651	4.08
+652	3.89
+653	3.91
+654	4.14
+655	3.88
+656	4.00
+657	4.26
+658	3.42
+659	4.08
+660	3.76
+661	4.10
+662	3.43
+663	3.91
+664	3.54
+665	2.83
+666	2.40
+667	2.17
+668	2.17
+669	1.62
+670	3.00
+671	3.61
+672	2.72
+673	3.52
+674	2.90
+675	3.56
+676	3.34
+677	3.00
+678	2.81
+679	3.05
+680	2.56
+681	2.44
+682	3.06
+683	2.41
+684	3.79
+685	3.36
+686	3.68
+687	2.19
+688	1.84
+689	3.15
+690	3.46
+691	3.50
+692	3.63
+693	3.65
+694	4.05
+695	2.92
+696	3.14
+697	3.42
+698	3.00
+699	3.68
+700	2.60
+701	4.00
+702	3.02
+703	3.58
+704	3.04
+705	3.99
+706	2.67
+707	3.93
+708	3.48
+709	4.03
+710	3.57
+711	4.00
+712	3.08
+713	3.61
+714	3.23
+715	3.28
+716	3.16
+717	2.82
+718	3.69
+719	2.41
+720	3.02
+721	3.44
+722	2.93
+723	3.15
+724	3.49
+725	2.75
+726	2.43
+727	3.46
+728	3.02
+729	3.48
+730	3.50
+731	3.15
+732	3.65
+733	3.20
+734	2.52
+735	3.85
+736	3.94
+737	2.98
+738	2.84
+739	3.32
+740	3.48
+741	3.45
+742	3.64
+743	1.95
+744	3.46
+745	3.88
+746	3.66
+747	3.46
+748	3.12
+749	3.18
+750	3.85
+751	3.43
+752	3.31
+753	3.71
+754	3.39
+755	3.31
+756	2.90
+757	2.75
+758	1.71
+759	2.18
+760	2.65
+761	3.05
+762	3.39
+763	3.39
+764	2.76
+765	2.81
+766	3.11
+767	2.18
+768	3.08
+769	2.45
+770	3.39
+771	2.63
+772	3.06
+773	2.94
+774	2.94
+775	2.77
+776	3.22
+777	1.25
+778	3.55
+779	2.55
+780	3.00
+781	3.33
+782	2.60
+783	2.73
+784	1.00
+785	3.15
+786	2.64
+787	3.23
+788	1.67
+789	3.57
+790	2.91
+791	2.50
+792	3.72
+793	3.50
+794	3.65
+795	2.43
+796	3.08
+797	3.10
+798	2.22
+799	3.20
+800	2.88
+801	2.81
+802	2.70
+803	2.56
+804	2.88
+805	3.63
+806	3.46
+807	2.78
+808	2.84
+809	2.91
+810	2.89
+811	3.94
+812	3.11
+813	3.89
+814	5.00
+815	3.23
+816	2.43
+817	2.67
+818	2.76
+819	2.70
+820	2.77
+821	3.05
+822	3.00
+823	2.88
+824	2.76
+825	3.04
+826	2.58
+827	2.77
+828	2.69
+829	2.65
+830	1.00
+831	2.46
+832	2.55
+833	3.20
+834	2.20
+835	3.87
+836	3.77
+837	3.92
+838	2.75
+839	2.50
+840	2.66
+841	2.75
+842	3.15
+843	3.00
+844	3.36
+845	3.47
+846	3.07
+847	3.73
+848	3.56
+849	2.72
+850	4.00
+851	3.75
+852	1.00
+853	3.86
+854	3.38
+855	3.73
+856	3.83
+857	3.00
+858	1.00
+859	2.67
+860	2.25
+861	2.33
+862	2.11
+863	3.92
+864	3.16
+865	3.48
+866	3.32
+867	4.00
+868	3.80
+869	3.00
+870	2.78
+871	2.40
+872	3.10
+873	2.96
+874	3.26
+875	2.74
+876	2.70
+877	2.54
+878	2.52
+879	3.27
+880	3.17
+881	2.93
+882	3.29
+883	3.23
+884	3.29
+885	2.23
+886	3.08
+887	3.61
+888	3.47
+889	3.38
+890	1.95
+891	2.67
+892	2.75
+893	2.43
+894	1.89
+895	3.22
+896	3.77
+897	1.50
+898	3.22
+899	3.44
+900	3.69
+901	1.92
+902	3.83
+903	3.11
+904	3.45
+905	3.22
+906	3.19
+907	2.00
+908	2.50
+909	3.77
+910	2.00
+911	2.50
+912	3.00
+913	2.50
+914	2.73
+915	3.92
+916	3.17
+917	3.43
+918	3.00
+919	3.79
+920	2.20
+921	3.98
+922	3.82
+923	4.16
+924	3.40
+925	3.32
+926	2.70
+927	3.17
+928	3.12
+929	2.70
+930	2.70
+931	2.16
+932	2.92
+933	2.43
+934	2.93
+935	3.29
+936	3.94
+937	3.41
+938	2.88
+939	3.60
+940	2.34
+941	3.07
+942	3.49
+943	3.48
+944	3.00
+945	3.92
+946	3.15
+947	3.24
+948	2.17
+949	3.34
+950	2.90
+951	2.82
+952	3.18
+953	3.32
+954	3.55
+955	3.41
+956	3.61
+957	2.00
+958	3.79
+959	3.47
+960	3.24
+961	3.62
+962	3.13
+963	4.29
+964	3.33
+965	3.67
+966	4.19
+967	3.17
+968	3.72
+969	3.80
+970	3.25
+971	3.68
+972	3.18
+973	3.50
+974	3.03
+975	3.16
+976	1.83
+977	2.69
+978	2.52
+979	3.20
+980	3.18
+981	1.75
+982	2.80
+983	2.40
+984	2.86
+985	2.86
+986	2.57
+987	2.50
+988	2.31
+989	2.84
+990	3.09
+991	2.24
+992	3.00
+993	3.52
+994	2.29
+995	3.16
+996	2.50
+997	2.12
+998	2.56
+999	2.80
+1000	3.00
+1001	2.00
+1002	1.88
+1003	2.25
+1004	3.11
+1005	3.68
+1006	2.83
+1007	4.13
+1008	3.38
+1009	3.38
+1010	3.25
+1011	3.23
+1012	3.53
+1013	2.29
+1014	3.06
+1015	2.83
+1016	3.46
+1017	3.24
+1018	3.19
+1019	3.97
+1020	3.89
+1021	3.82
+1022	3.44
+1023	2.58
+1024	3.60
+1025	2.93
+1026	2.50
+1027	2.67
+1028	3.04
+1029	2.00
+1030	2.25
+1031	2.29
+1032	2.88
+1033	2.78
+1034	2.52
+1035	3.16
+1036	2.75
+1037	2.00
+1038	2.82
+1039	4.01
+1040	2.60
+1041	3.19
+1042	3.14
+1043	3.00
+1044	3.23
+1045	3.24
+1046	3.17
+1047	2.84
+1048	3.01
+1049	2.52
+1050	3.65
+1051	3.24
+1052	2.28
+1053	3.46
+1054	2.30
+1055	3.20
+1056	3.20
+1057	2.32
+1058	3.27
+1059	2.77
+1060	3.05
+1061	2.93
+1062	3.75
+1063	3.66
+1064	4.25
+1065	3.49
+1066	3.00
+1067	3.45
+1068	3.17
+1069	3.17
+1070	3.74
+1071	2.88
+1072	2.43
+1073	3.82
+1074	2.96
+1075	3.43
+1076	2.25
+1077	3.12
+1078	2.77
+1079	2.24
+1080	4.00
+1081	2.75
+1082	2.62
+1083	2.50
+1084	3.86
+1085	3.00
+1086	3.29
+1087	1.70
+1088	2.23
+1089	2.13
+1090	2.41
+1091	2.72
+1092	2.50
+1093	3.09
+1094	2.42
+1095	2.62
+1096	2.67
+1097	3.50
+1098	3.69
+1099	3.46
+1100	2.62
+1101	3.77
+1102	2.43
+1103	3.79
+1104	3.00
+1105	2.83
+1106	3.00
+1107	3.06
+1108	2.40
+1109	3.29
+1110	2.85
+1111	3.43
+1112	2.80
+1113	3.27
+1114	3.30
+1115	3.41
+1116	3.62
+1117	3.11
+1118	3.26
+1119	3.66
+1120	3.00
+1121	3.76
+1122	5.00
+1123	3.67
+1124	3.83
+1125	4.25
+1126	3.34
+1127	2.91
+1128	2.69
+1129	3.57
+1130	4.00
+1131	4.00
+1132	2.62
+1133	2.97
+1134	3.32
+1135	2.98
+1136	3.48
+1137	3.97
+1138	3.40
+1139	2.61
+1140	2.29
+1141	3.33
+1142	4.05
+1143	4.00
+1144	3.67
+1145	2.67
+1146	2.00
+1147	3.67
+1148	3.33
+1149	3.85
+1150	3.11
+1151	2.14
+1152	3.43
+1153	3.47
+1154	3.33
+1155	3.33
+1156	3.00
+1157	2.88
+1158	4.00
+1159	3.55
+1160	3.62
+1161	2.92
+1162	1.60
+1163	2.68
+1164	2.17
+1165	1.86
+1166	3.17
+1167	3.55
+1168	3.32
+1169	4.10
+1170	3.07
+1171	3.14
+1172	3.67
+1173	2.57
+1174	3.25
+1175	3.40
+1176	3.36
+1177	1.86
+1178	2.47
+1179	2.11
+1180	2.50
+1181	2.50
+1182	2.31
+1183	2.21
+1184	2.50
+1185	2.28
+1186	3.33
+1187	3.23
+1188	2.77
+1189	5.00
+1190	3.36
+1191	4.33
+1192	3.38
+1193	3.80
+1194	4.06
+1195	3.27
+1196	3.00
+1197	3.56
+1198	3.14
+1199	2.87
+1200	3.29
+1201	5.00
+1202	3.50
+1203	4.05
+1204	3.61
+1205	3.00
+1206	2.68
+1207	2.29
+1208	2.85
+1209	2.53
+1210	2.74
+1211	3.42
+1212	2.83
+1213	2.17
+1214	2.00
+1215	1.93
+1216	3.00
+1217	2.87
+1218	3.46
+1219	2.90
+1220	3.33
+1221	3.49
+1222	2.68
+1223	3.50
+1224	2.67
+1225	2.64
+1226	3.38
+1227	2.38
+1228	2.46
+1229	2.15
+1230	1.83
+1231	2.50
+1232	2.47
+1233	3.50
+1234	2.38
+1235	4.00
+1236	3.00
+1237	3.50
+1238	3.12
+1239	2.44
+1240	3.65
+1241	2.67
+1242	2.60
+1243	3.71
+1244	2.92
+1245	3.21
+1246	1.57
+1247	1.83
+1248	3.00
+1249	2.83
+1250	1.50
+1251	4.12
+1252	3.00
+1253	2.43
+1254	1.82
+1255	2.25
+1256	2.00
+1257	1.75
+1258	2.52
+1259	2.00
+1260	2.75
+1261	3.25
+1262	3.62
+1263	2.93
+1264	3.29
+1265	3.05
+1266	3.17
+1267	3.00
+1268	3.30
+1269	3.90
+1270	2.29
+1271	2.71
+1272	1.80
+1273	2.73
+1274	1.73
+1275	2.50
+1276	2.50
+1277	3.42
+1278	3.62
+1279	2.89
+1280	2.69
+1281	3.15
+1282	3.22
+1283	2.68
+1284	2.85
+1285	3.13
+1286	3.71
+1287	1.33
+1288	3.00
+1289	2.14
+1290	1.50
+1291	2.20
+1292	1.67
+1293	5.00
+1294	3.14
+1295	2.57
+1296	3.25
+1297	2.83
+1298	3.67
+1299	3.00
+1300	2.33
+1301	3.80
+1302	3.40
+1303	2.33
+1304	2.50
+1305	2.43
+1306	3.00
+1307	1.50
+1308	1.00
+1309	1.00
+1310	3.00
+1311	2.50
+1312	3.00
+1313	3.14
+1314	2.45
+1315	3.13
+1316	2.71
+1317	2.00
+1318	1.33
+1319	1.75
+1320	1.00
+1321	2.50
+1322	2.33
+1323	2.67
+1324	2.40
+1325	1.00
+1326	3.33
+1327	2.33
+1328	3.17
+1329	1.00
+1330	2.50
+1331	3.00
+1332	2.00
+1333	2.80
+1334	1.00
+1335	2.64
+1336	1.80
+1337	2.33
+1338	2.25
+1339	1.00
+1340	1.00
+1341	1.00
+1342	2.50
+1343	1.00
+1344	3.20
+1345	2.00
+1346	2.40
+1347	2.75
+1348	1.00
+1349	1.00
+1350	1.50
+1351	2.00
+1352	1.00
+1353	2.60
+1354	1.00
+1355	2.67
+1356	2.67
+1357	2.67
+1358	3.00
+1359	1.00
+1360	1.50
+1361	2.67
+1362	2.00
+1363	1.00
+1364	1.00
+1365	1.50
+1366	1.00
+1367	4.20
+1368	3.67
+1369	2.75
+1370	2.67
+1371	1.50
+1372	3.00
+1373	1.00
+1374	1.00
+1375	3.60
+1376	2.14
+1377	3.25
+1378	2.20
+1379	2.86
+1380	2.33
+1381	3.25
+1382	2.00
+1383	2.00
+1384	1.67
+1385	2.80
+1386	2.67
+1387	2.00
+1388	3.33
+1389	3.00
+1390	2.00
+1391	2.00
+1392	2.00
+1393	2.11
+1394	2.43
+1395	2.33
+1396	4.20
+1397	3.20
+1398	4.50
+1399	2.43
+1400	3.10
+1401	3.22
+1402	2.75
+1403	2.75
+1404	3.23
+1405	3.33
+1406	3.40
+1407	2.25
+1408	1.00
+1409	2.86
+1410	2.75
+1411	2.57
+1412	1.67
+1413	2.75
+1414	2.00
+1415	2.44
+1416	2.40
+1417	2.50
+1418	3.67
+1419	2.12
+1420	1.33
+1421	3.18
+1422	2.25
+1423	2.25
+1424	2.33
+1425	2.60
+1426	3.25
+1427	2.80
+1428	3.67
+1429	2.75
+1430	2.33
+1431	3.40
+1432	1.00
+1433	2.00
+1434	2.50
+1435	2.57
+1436	2.50
+1437	2.00
+1438	2.40
+1439	3.00
+1440	3.00
+1441	2.57
+1442	2.40
+1443	3.75
+1444	2.47
+1445	2.75
+1446	3.13
+1447	3.00
+1448	3.67
+1449	4.62
+1450	4.00
+1451	3.87
+1452	4.00
+1453	2.00
+1454	3.00
+1455	2.50
+1456	3.71
+1457	3.00
+1458	4.00
+1459	3.57
+1460	3.00
+1461	2.00
+1462	3.71
+1463	3.33
+1464	2.33
+1465	2.33
+1466	4.00
+1467	5.00
+1468	3.33
+1469	3.17
+1470	2.60
+1471	2.44
+1472	3.50
+1473	3.56
+1474	2.83
+1475	2.88
+1476	2.00
+1477	2.50
+1478	2.72
+1479	2.75
+1480	2.27
+1481	3.00
+1482	4.00
+1483	3.42
+1484	2.67
+1485	3.50
+1486	1.00
+1487	2.00
+1488	3.00
+1489	2.20
+1490	3.00
+1491	3.00
+1492	4.00
+1493	1.00
+1494	1.00
+1495	3.60
+1496	2.80
+1497	3.00
+1498	4.00
+1499	3.25
+1500	5.00
+1501	3.00
+1502	1.50
+1503	3.10
+1504	3.67
+1505	4.00
+1506	3.67
+1507	3.00
+1508	2.33
+1509	1.60
+1510	3.00
+1511	3.20
+1512	4.00
+1513	2.00
+1514	3.14
+1515	4.00
+1516	4.00
+1517	2.80
+1518	3.00
+1519	3.00
+1520	3.00
+1521	3.00
+1522	2.43
+1523	3.00
+1524	4.25
+1525	4.00
+1526	4.00
+1527	2.43
+1528	2.33
+1529	2.80
+1530	2.00
+1531	3.29
+1532	2.00
+1533	4.00
+1534	2.17
+1535	3.00
+1536	5.00
+1537	4.00
+1538	3.00
+1539	1.75
+1540	2.80
+1541	3.50
+1542	3.00
+1543	3.00
+1544	2.67
+1545	2.50
+1546	1.00
+1547	3.00
+1548	1.00
+1549	1.50
+1550	3.00
+1551	2.00
+1552	2.00
+1553	2.75
+1554	3.00
+1555	2.60
+1556	2.00
+1557	1.00
+1558	3.57
+1559	1.00
+1560	2.75
+1561	1.00
+1562	1.00
+1563	1.00
+1564	1.00
+1565	1.00
+1566	1.00
+1567	1.00
+1568	1.00
+1569	1.00
+1570	1.00
+1571	1.00
+1572	1.00
+1573	2.50
+1574	1.00
+1575	1.00
+1576	1.00
+1577	1.00
+1578	2.00
+1579	1.00
+1580	1.00
+1581	1.00
+1582	1.00
+1583	1.00
+1584	1.00
+1585	2.50
+1586	1.00
+1587	1.00
+1588	2.00
+1589	3.00
+1590	2.00
+1591	3.17
+1592	3.60
+1593	4.00
+1594	4.50
+1595	2.00
+1596	2.00
+1597	3.00
+1598	2.50
+1599	5.00
+1600	3.75
+1601	1.00
+1602	3.33
+1603	3.00
+1604	4.00
+1605	3.00
+1606	2.00
+1607	3.33
+1608	2.25
+1609	1.67
+1610	2.00
+1611	3.00
+1612	3.75
+1613	4.00
+1614	3.00
+1615	3.00
+1616	4.00
+1617	3.00
+1618	1.00
+1619	3.00
+1620	3.22
+1621	1.00
+1622	2.33
+1623	4.00
+1624	2.00
+1625	4.00
+1626	1.00
+1627	3.00
+1628	3.75
+1629	4.00
+1630	3.00
+1631	3.50
+1632	3.00
+1633	3.00
+1634	2.00
+1635	3.00
+1636	4.00
+1637	3.00
+1638	3.00
+1639	4.33
+1640	3.00
+1641	3.00
+1642	4.50
+1643	3.75
+1644	1.50
+1645	4.00
+1646	3.50
+1647	3.00
+1648	2.00
+1649	3.00
+1650	4.00
+1651	4.00
+1652	1.67
+1653	5.00
+1654	1.00
+1655	2.00
+1656	3.50
+1657	3.00
+1658	3.00
+1659	1.00
+1660	2.00
+1661	1.00
+1662	2.50
+1663	2.00
+1664	3.25
+1665	2.00
+1666	2.00
+1667	3.00
+1668	3.00
+1669	2.00
+1670	3.00
+1671	1.00
+1672	2.00
+1673	3.00
+1674	4.00
+1675	3.00
+1676	2.00
+1677	3.00
+1678	1.00
+1679	3.00
+1680	2.00
+1681	3.00
+1682	3.00

@@ -1,91 +1,104 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include<sys/types.h>
-#include<sys/ipc.h>
-#include<sys/shm.h>
-
 #include <unistd.h>
+#include <sys/types.h>
 #include <sys/wait.h>
-
-#define MAX_MOVIES 1682
-#define SHMKEY 0x1512
-
+#include <sys/shm.h>
 #include <string.h>
 
-typedef struct {
-    int Sum_Rating[MAX_MOVIES];
-    int Count_Rating[MAX_MOVIES];
-} buf;
+#define MAX_MOVIES 1682
+#define FILE1 "movie-100k_1.txt"
+#define FILE2 "movie-100k_2.txt"
 
-int main(int argc, char *argv[]) {
-    FILE *fp = NULL;
-    if (argc > 1 && strcmp((argv[1]), "CFO") == 0) fp = fopen("output.txt", "w");
+// format input FILE1 and FILE2
+// userID <tab> movieID <tab> rating <tab> timeStamp
 
-    int shmid = shmget(SHMKEY, sizeof(buf), IPC_CREAT | 0666);
-    if (shmid < 0) {
+// Shared memory structure
+typedef struct
+{
+    int count[MAX_MOVIES];
+    double sum[MAX_MOVIES];
+} SharedData;
+
+// Function to read a file and compute movie ratings
+void process_file(const char *filename, SharedData *shared_data)
+{
+    // Open file
+    FILE *file = fopen(filename, "r");
+    if (!file)
+    {
+        perror("Error opening file");
+        exit(1);
+    }
+    // Extract data from file
+    int userID, movieID, rating, timestamp;
+    while (fscanf(file, "%d\t%d\t%d\t%d", &userID, &movieID, &rating, &timestamp) != EOF)
+    {
+        shared_data->count[movieID]++;
+        shared_data->sum[movieID] += rating;
+    }
+    fclose(file);
+}
+
+int main()
+{
+    int shmid;
+    SharedData *shared_data;
+
+    // Create shared memory
+    shmid = shmget(IPC_PRIVATE, sizeof(SharedData), IPC_CREAT | 0666);
+    if (shmid == -1)
+    {
         perror("shmget failed");
-        return 1;
+        exit(1);
     }
 
-    buf *shared_buf = (buf *)shmat(shmid, NULL, 0);
-    if (shared_buf == (buf *)-1) {
+    // Attach shared memory
+    shared_data = (SharedData *)shmat(shmid, NULL, 0);
+    if (shared_data == (void *)-1)
+    {
         perror("shmat failed");
         exit(1);
     }
-    memset(shared_buf, 0, sizeof(buf));
-    int *Sum_Rating = shared_buf->Sum_Rating;
-    int *Count_Rating = shared_buf->Count_Rating;
 
-    int pid = fork(); 
+    // Initialize shared memory
+    memset(shared_data, 0, sizeof(SharedData));
 
-    char *fileName;
-
-    if (pid == 0) { 
-        fileName = "./movie-100k-split/movie-100k_1.txt";
-    } else if (pid > 0) { 
-        fileName = "./movie-100k-split/movie-100k_2.txt";
-        wait(NULL); // Wait for the child process to finish
-    } else { 
-        perror("Fork failed");
-        return -1;
+    pid_t pid1, pid2;
+    // Create first child process
+    if ((pid1 = fork()) == 0)
+    {
+        process_file(FILE1, shared_data);
+        shmdt(shared_data);
+        exit(0);
     }
 
-    FILE *file = fopen(fileName, "r"); 
-    if (file == NULL) {
-        printf("Cannot open file!\n");
-        return 1;
+    // Create second child process
+    if ((pid2 = fork()) == 0)
+    {
+        process_file(FILE2, shared_data);
+        shmdt(shared_data);
+        exit(0);
     }
 
-    char line[256];
-    int user_id, movie_id, rating, timestamp;
-    while (fgets(line, sizeof(line), file)) {
-        if (sscanf(line, "%d %d %d %d", &user_id, &movie_id, &rating, &timestamp) == 4) {
-            if (movie_id >= 0 && movie_id < MAX_MOVIES) {
-                Sum_Rating[movie_id] += rating;
-                Count_Rating[movie_id]++;
-            }
+    // Parent waits for both children to complete
+    waitpid(pid1, NULL, 0);
+    waitpid(pid2, NULL, 0);
+
+    // Compute and print average ratings
+    printf("MovieID\tAverage Rating\n");
+    for (int i = 1; i <= MAX_MOVIES; i++)
+    {
+        if (shared_data->count[i] > 0)
+        {
+            double avg = shared_data->sum[i] / shared_data->count[i];
+            printf("%d\t%.2f\n", i, avg);
         }
     }
 
+    // Detach and remove shared memory
+    shmdt(shared_data);
+    shmctl(shmid, IPC_RMID, NULL);
 
-    if(pid > 0){
-        for(int i = 0; i < MAX_MOVIES; i++){
-            if(Count_Rating[i] != 0){
-                if (fp) {
-                    fprintf(fp, "Movie ID: %d, Average Rating: %.2f\n", i,  Sum_Rating[i] * 1.f / Count_Rating[i]);
-                } else {
-                    printf("Movie ID: %d, Average Rating: %.2f\n", i,  Sum_Rating[i] * 1.f / Count_Rating[i]);
-                }
-            }
-        }
-
-        if(fp)  fclose(fp);
-
-        shmdt(shared_buf);
-        shmctl(shmid, IPC_RMID, NULL);
-    }
-    else shmdt(shared_buf);
-
-    fclose(file); 
     return 0;
 }
