@@ -7,7 +7,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
-#define MAX_MOVIES 1682
+#define MAX_MOVIES 1683
 #define SHMKEY 0x1512
 
 #include <string.h>

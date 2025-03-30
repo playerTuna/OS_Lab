@@ -1679,3 +1679,4 @@ Movie ID: 1678, Average Rating: 1.00
 Movie ID: 1679, Average Rating: 3.00
 Movie ID: 1680, Average Rating: 2.00
 Movie ID: 1681, Average Rating: 3.00
+Movie ID: 1682, Average Rating: 3.00
