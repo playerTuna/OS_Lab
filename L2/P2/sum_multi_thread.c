@@ -16,7 +16,7 @@ void* partial_sum(void* arg) {
     for (ll i = args->s; i <= args->e; ++i) {
         args->sum += i;
     }
-    return NULL;
+    pthread_exit(NULL);
 }
 
 int main(int argc, char *argv[]) {
@@ -27,16 +27,16 @@ int main(int argc, char *argv[]) {
 
     int num_threads = atoi(argv[1]);
     ll n = atoll(argv[2]);
-    pthread_t threads[num_threads];
-    Sum args[num_threads];
+    pthread_t *threads = malloc(num_threads * sizeof(pthread_t));
+    Sum *args = malloc(num_threads * sizeof(Sum));
 
     ll chunk = n / num_threads;
     ll start = 1;
+    ll r = n % num_threads; // remainder
 
     for (int i = 0; i < num_threads; ++i) {
         args[i].s = start;
-        args[i].e = start + chunk - 1;
-        if (i == num_threads - 1) args[i].e += n % num_threads; // last thread takes the remainder
+        args[i].e = start + chunk - 1 + (num_threads - i - 1 < r);
         start = args[i].e + 1;
         pthread_create(&threads[i], NULL, partial_sum, &args[i]);
     }
@@ -45,8 +45,15 @@ int main(int argc, char *argv[]) {
     for (int i = 0; i < num_threads; ++i) {
         pthread_join(threads[i], NULL);
         total_sum += args[i].sum;
+        // printf("Thread %d: Sum from %lld to %lld is %lld\n", i, args[i].s, args[i].e, args[i].sum);
     }
 
     printf("Sum from 1 to %lld using %d threads is %lld\n", n, num_threads, total_sum);
+    // printf(n * (n + 1) / 2 == total_sum ? "Correct\n" : "Incorrect\n");
+
+    free(threads);
+    free(args);
+    pthread_exit(NULL);
+
     return 0;
 }
