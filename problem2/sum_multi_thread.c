@@ -39,7 +39,7 @@ int main(int argc, char* argv[]) {
 
     for (int i=0; i<numThreads; i++) {
         thread_data[i].start = current_start;
-        thread_data[i].end = (int)(n/numThreads)*((i+1)) ;
+        thread_data[i].end = (n*(i+1)/numThreads);
         pthread_create(&threads[i],NULL,thread_sum,&thread_data[i]);
         current_start = thread_data[i].end +1;
     }
