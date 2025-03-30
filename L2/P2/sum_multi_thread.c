@@ -30,15 +30,21 @@ int main(int argc, char *argv[]) {
     pthread_t *threads = malloc(num_threads * sizeof(pthread_t));
     Sum *args = malloc(num_threads * sizeof(Sum));
 
-    ll chunk = n / num_threads;
+    // ll chunk = n / num_threads;
     ll start = 1;
-    ll r = n % num_threads; // remainder
+    // ll r = n % num_threads; // remainder
 
     for (int i = 0; i < num_threads; ++i) {
         args[i].s = start;
-        args[i].e = start + chunk - 1 + (num_threads - i - 1 < r);
+        // args[i].e = start + chunk - 1 + (num_threads - i - 1 < r);
+        args[i].e = n * (i + 1) / num_threads;
         start = args[i].e + 1;
-        pthread_create(&threads[i], NULL, partial_sum, &args[i]);
+        if (pthread_create(&threads[i], NULL, partial_sum, &args[i])){
+            printf("Error creating thread %d\n", i);
+            free(threads);
+            free(args);
+            return 1;
+        }
     }
 
     ll total_sum = 0;
