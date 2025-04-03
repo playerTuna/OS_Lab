@@ -1,5 +1,5 @@
-Child 2 (PID=34555): Processing movie-100k_2.txt
-Child 1 (PID=34554): Processing movie-100k_1.txt
+Child 1 (PID=5462): Processing movie-100k_1.txt
+Child 2 (PID=5463): Processing movie-100k_2.txt
 MovieID: 1	 Rating Count: 452	 Average Rating: 3.88
 MovieID: 2	 Rating Count: 131	 Average Rating: 3.21
 MovieID: 3	 Rating Count: 90	 Average Rating: 3.03
@@ -143,7 +143,7 @@ MovieID: 140	 Rating Count: 61	 Average Rating: 3.21
 MovieID: 141	 Rating Count: 72	 Average Rating: 3.50
 MovieID: 142	 Rating Count: 57	 Average Rating: 3.07
 MovieID: 143	 Rating Count: 222	 Average Rating: 3.77
-MovieID: 144	 Rating Count: 243	 Average Rating: 3.87
+MovieID: 144	 Rating Count: 242	 Average Rating: 3.89
 MovieID: 145	 Rating Count: 65	 Average Rating: 2.45
 MovieID: 146	 Rating Count: 10	 Average Rating: 2.50
 MovieID: 147	 Rating Count: 185	 Average Rating: 3.47
@@ -171,7 +171,7 @@ MovieID: 168	 Rating Count: 316	 Average Rating: 4.07
 MovieID: 169	 Rating Count: 118	 Average Rating: 4.47
 MovieID: 170	 Rating Count: 121	 Average Rating: 4.17
 MovieID: 171	 Rating Count: 65	 Average Rating: 3.88
-MovieID: 172	 Rating Count: 367	 Average Rating: 4.20
+MovieID: 172	 Rating Count: 366	 Average Rating: 4.22
 MovieID: 173	 Rating Count: 324	 Average Rating: 4.17
 MovieID: 174	 Rating Count: 420	 Average Rating: 4.25
 MovieID: 175	 Rating Count: 208	 Average Rating: 3.82
@@ -194,7 +194,7 @@ MovieID: 191	 Rating Count: 276	 Average Rating: 4.16
 MovieID: 192	 Rating Count: 116	 Average Rating: 4.12
 MovieID: 193	 Rating Count: 157	 Average Rating: 3.92
 MovieID: 194	 Rating Count: 241	 Average Rating: 4.06
-MovieID: 195	 Rating Count: 301	 Average Rating: 3.93
+MovieID: 195	 Rating Count: 300	 Average Rating: 3.95
 MovieID: 196	 Rating Count: 251	 Average Rating: 3.92
 MovieID: 197	 Rating Count: 239	 Average Rating: 4.10
 MovieID: 198	 Rating Count: 127	 Average Rating: 4.01
@@ -217,7 +217,7 @@ MovieID: 214	 Rating Count: 114	 Average Rating: 3.35
 MovieID: 215	 Rating Count: 212	 Average Rating: 3.70
 MovieID: 216	 Rating Count: 290	 Average Rating: 3.91
 MovieID: 217	 Rating Count: 120	 Average Rating: 3.16
-MovieID: 218	 Rating Count: 170	 Average Rating: 3.48
+MovieID: 218	 Rating Count: 171	 Average Rating: 3.46
 MovieID: 219	 Rating Count: 111	 Average Rating: 3.17
 MovieID: 220	 Rating Count: 66	 Average Rating: 3.36
 MovieID: 221	 Rating Count: 74	 Average Rating: 3.73
@@ -226,7 +226,7 @@ MovieID: 223	 Rating Count: 136	 Average Rating: 4.20
 MovieID: 224	 Rating Count: 44	 Average Rating: 3.70
 MovieID: 225	 Rating Count: 109	 Average Rating: 2.91
 MovieID: 226	 Rating Count: 166	 Average Rating: 3.36
-MovieID: 227	 Rating Count: 160	 Average Rating: 3.27
+MovieID: 227	 Rating Count: 161	 Average Rating: 3.28
 MovieID: 228	 Rating Count: 244	 Average Rating: 3.82
 MovieID: 229	 Rating Count: 171	 Average Rating: 3.11
 MovieID: 230	 Rating Count: 199	 Average Rating: 3.45
@@ -357,7 +357,7 @@ MovieID: 354	 Rating Count: 72	 Average Rating: 3.49
 MovieID: 355	 Rating Count: 41	 Average Rating: 2.93
 MovieID: 356	 Rating Count: 97	 Average Rating: 3.38
 MovieID: 357	 Rating Count: 264	 Average Rating: 4.29
-MovieID: 358	 Rating Count: 143	 Average Rating: 2.62
+MovieID: 358	 Rating Count: 142	 Average Rating: 2.61
 MovieID: 359	 Rating Count: 18	 Average Rating: 3.50
 MovieID: 360	 Rating Count: 10	 Average Rating: 3.20
 MovieID: 361	 Rating Count: 10	 Average Rating: 3.50
@@ -408,7 +408,7 @@ MovieID: 405	 Rating Count: 344	 Average Rating: 3.31
 MovieID: 406	 Rating Count: 49	 Average Rating: 2.45
 MovieID: 407	 Rating Count: 43	 Average Rating: 2.51
 MovieID: 408	 Rating Count: 112	 Average Rating: 4.49
-MovieID: 409	 Rating Count: 70	 Average Rating: 3.09
+MovieID: 409	 Rating Count: 70	 Average Rating: 3.14
 MovieID: 410	 Rating Count: 162	 Average Rating: 3.13
 MovieID: 411	 Rating Count: 163	 Average Rating: 2.91
 MovieID: 412	 Rating Count: 93	 Average Rating: 2.40

@@ -8,7 +8,7 @@
 #include <sys/shm.h>
 #include <sys/stat.h>
 
-#define MAX_MOVIES 2000  // Giả sử có tối đa 2000 bộ phim
+#define MAX_MOVIES 1683
 #define SHM_SIZE (MAX_MOVIES * sizeof(struct MovieRating))
 
 // Cấu trúc lưu thông tin đánh giá phim
