@@ -37,8 +37,6 @@ void* calculate_partial_sum(void* arg) {
     // Dùng CLOCK_MONOTONIC để có độ chính xác cao và không bị ảnh hưởng bởi thay đổi thời gian hệ thống
     clock_gettime(CLOCK_MONOTONIC, &(data->start_time));
 
-    // printf("Thread %d started: calculating sum from %lld to %lld\n",
-    //     data->thread_id, data->start, data->end);
 
     for (long long i = data->start; i <= data->end; i++) {
         data->partial_sum += i;
@@ -49,8 +47,6 @@ void* calculate_partial_sum(void* arg) {
     // Tính thời gian thực thi của thread theo giây
     data->thread_time = time_diff(data->start_time, data->end_time);
 
-    // printf("Thread %d finished: partial sum = %lld, time taken = %.9f seconds\n",
-    //     data->thread_id, data->partial_sum, data->thread_time);
 
     pthread_exit(NULL);
 }
@@ -83,26 +79,21 @@ int main(int argc, char* argv[]) {
     pthread_t* threads = (pthread_t*)malloc(num_threads * sizeof(pthread_t));
     ThreadData* thread_data = (ThreadData*)malloc(num_threads * sizeof(ThreadData));
 
-    // Calculate range for each thread
-    long long numbers_per_thread = n / num_threads;
-    long long remaining = n % num_threads;
-
     long long current_start = 1;
 
     // Create threads
     printf("\nDistribution of work among threads:\n");
     printf("----------------------------------\n");
     for (int i = 0; i < num_threads; i++) {
-        thread_data[i].thread_id = i;
+        thread_data[i].thread_id = i + 1;
         thread_data[i].start = current_start;
 
         // Distribute remaining numbers evenly
-        long long extra = (i < remaining) ? 1 : 0;
-        thread_data[i].end = current_start + numbers_per_thread - 1 + extra;
+        thread_data[i].end = (int)(n * (i + 1) / num_threads);
         current_start = thread_data[i].end + 1;
 
         printf("Thread %d: start = %lld, end = %lld, range size = %lld\n",
-            i, thread_data[i].start, thread_data[i].end,
+            thread_data[i].thread_id, thread_data[i].start, thread_data[i].end,
             thread_data[i].end - thread_data[i].start + 1);
 
         int rc = pthread_create(&threads[i], NULL, calculate_partial_sum, (void*)&thread_data[i]);
@@ -113,14 +104,10 @@ int main(int argc, char* argv[]) {
     }
     
     long long total_sum = 0;
-    double max_thread_time = 0;
 
     for (int i = 0; i < num_threads; i++) {
         pthread_join(threads[i], NULL);
         total_sum += thread_data[i].partial_sum;
-
-        if (thread_data[i].thread_time > max_thread_time)
-            max_thread_time = thread_data[i].thread_time;
     }
 
     clock_gettime(CLOCK_MONOTONIC, &mt_end_time);
@@ -129,8 +116,7 @@ int main(int argc, char* argv[]) {
     printf("\nMulti-threaded Summary:\n");
     printf("----------------------------------\n");
     printf("Sum of numbers from 1 to %lld using %d threads is %lld\n", n, num_threads, total_sum);
-    printf("Total wall-clock time: %.9f seconds\n", total_time);
-    printf("Longest thread execution time: %.9f seconds\n", max_thread_time);
+    printf("Total clock time: %.9f seconds\n", total_time);
 
     // Now calculate using serial method for comparison
     printf("\n=== Serial Sum Calculation ===\n");
@@ -153,19 +139,16 @@ int main(int argc, char* argv[]) {
     printf("\n=== Performance Comparison ===\n");
     printf("----------------------------------\n");
     printf("Serial time:           %.9f seconds\n", serial_time);
-    printf("Parallel total time:   %.9f seconds (including thread overhead)\n", total_time);
-    printf("Longest thread time:   %.9f seconds\n", max_thread_time);
-    printf("Speedup (total):       %.4f\n", speedup_total);
-    printf("Thread overhead time:  %.9f seconds (%.2f%%)\n", 
-           total_time - max_thread_time, 100*(total_time - max_thread_time)/total_time);
+    printf("Multi-thread total time:   %.9f seconds\n", total_time);
+    printf("Speedup:       %.4f\n", speedup_total);
     printf("----------------------------------\n");
 
     // Verify results
     if (total_sum == serial_sum) {
-        printf("✓ Results match! Both methods calculated the same sum.\n");
+        printf("Results match! Both methods calculated the same sum.\n");
     }
     else {
-        printf("✗ ERROR: Results don't match! Multi-threaded: %lld vs Serial: %lld\n", total_sum, serial_sum);
+        printf("ERROR: Results don't match! Multi-threaded: %lld vs Serial: %lld\n", total_sum, serial_sum);
     }
 
     // Check against mathematical formula n*(n+1)/2
