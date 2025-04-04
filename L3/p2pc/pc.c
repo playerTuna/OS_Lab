@@ -13,6 +13,9 @@ int fill = 0;
 int use = 0;
 
 /*TODO: Fill in the synchronization stuff */
+sem_t sem_empty;
+sem_t sem_full;
+pthread_mutex_t mutex;
 
 void put(int value); // put data into buffer
 int get();           // get data from buffer
@@ -22,10 +25,14 @@ void * producer(void * arg) {
   int tid = *((int*) arg);
   for (i = 0; i < LOOPS; i++) {
     /*TODO: Fill in the synchronization stuff */
+    sem_wait(&sem_empty);
+    pthread_mutex_lock(&mutex);
     put(i); // line P2
     printf("Producer %d put data %d\n", tid, i);
     sleep(1);
     /*TODO: Fill in the synchronization stuff */
+    pthread_mutex_unlock(&mutex);
+    sem_post(&sem_full);
   }
   pthread_exit(NULL);
 }
@@ -35,10 +42,14 @@ void * consumer(void * arg) {
   int tid = *((int*) arg);
   while (tmp != -1) {
     /*TODO: Fill in the synchronization stuff */
+    sem_wait(&sem_full);
+    pthread_mutex_lock(&mutex);
     tmp = get(); // line C2
     printf("Consumer %d get data %d\n", tid, tmp);
     sleep(1);
     /*TODO: Fill in the synchronization stuff */
+    pthread_mutex_unlock(&mutex);
+    sem_post(&sem_empty);
   }
   pthread_exit(NULL);
 }
@@ -50,7 +61,10 @@ int main(int argc, char ** argv) {
   pthread_t consumers[THREADS];
 
   /*TODO: Fill in the synchronization stuff */
-
+  sem_init(&sem_empty, 0, BUF_SIZE);
+  sem_init(&sem_full, 0, 0);
+  pthread_mutex_init(&mutex, NULL);
+  
   for (i = 0; i < THREADS; i++) {
     tid[i] = i;
     // Create producer thread
@@ -66,7 +80,9 @@ int main(int argc, char ** argv) {
   }
 
   /*TODO: Fill in the synchronization stuff destroy (if needed) */
-
+  sem_destroy(&sem_empty);
+  sem_destroy(&sem_full);
+  pthread_mutex_destroy(&mutex);  
   return 0;
 }
 
