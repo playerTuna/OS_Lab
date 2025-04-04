@@ -87,8 +87,6 @@ int main(int argc, char* argv[]) {
    Run with: ./sum_multi_thread
    Code by Nem, Optimize by ZaMin
 
-To use a Makefile, create a file named 'Makefile' in the same directory with the following content:
-
 all: sum_serial sum_multi_thread
 
 clean:
