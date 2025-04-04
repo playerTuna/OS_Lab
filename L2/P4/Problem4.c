@@ -47,3 +47,7 @@ int main() {
 
     return 0;
 }
+/* Compile with: gcc -o Problem4 Problem4.c -lpthread
+   Run with: ./Problem4
+   Code by: ZaMinVo
+*/
