@@ -1,15 +1,15 @@
 CC = gcc
-CFLAGS = -Wall -pthread
-OBJ = main.o seqlock.o
-TARGET = main
+CFLAGS = -std=c11 -Wall -pthread
+TARGET = seqlock
+SRC = seqlock.c
 
 all: $(TARGET)
 
-$(TARGET): $(OBJ)
-	$(CC) $(CFLAGS) -o $@ $^
+$(TARGET): $(SRC)
+	$(CC) $(CFLAGS) $(SRC) -o $(TARGET)
 
-%.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@
+run: $(TARGET)
+	./$(TARGET)
 
 clean:
-	rm -f $(OBJ) $(TARGET)
+	rm -f $(TARGET)
