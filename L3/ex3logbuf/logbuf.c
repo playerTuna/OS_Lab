@@ -1,94 +1,92 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include <pthread.h>
 #include <unistd.h>
-#include <string.h>
 
 #define MAX_LOG_LENGTH 10
 #define MAX_BUFFER_SLOT 6
 #define MAX_LOOPS 30
 
-char logbuf[MAX_BUFFER_SLOT][MAX_LOG_LENGTH];
+char** logbuf;
+int count = 0;
+int flushing = 0;
+pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+pthread_cond_t cond = PTHREAD_COND_INITIALIZER;
 
-int count;
-void flushlog();
-
-struct _args
-{
+struct _args {
    unsigned int interval;
 };
 
-void *wrlog(void *data)
-{
-   char str[MAX_LOG_LENGTH];
-   int id = *(int*) data;
-
-   usleep(20);
-   sprintf(str, "%d", id);
-   strcpy(logbuf[count], str);
-   count = (count > MAX_BUFFER_SLOT)? count :(count + 1); /* Only increase count to size MAX_BUFFER_SLOT*/
-   printf("wrlog(): %d \n", id);
-
+int wrlog(char** logbuf, char* newdata) {
+   pthread_mutex_lock(&mutex);
+   while (count >= MAX_BUFFER_SLOT || flushing) {
+      pthread_cond_wait(&cond, &mutex);
+   }
+   logbuf[count] = strdup(newdata);
+   count++;
+   pthread_mutex_unlock(&mutex);
    return 0;
 }
 
-void flushlog()
-{
-   int i;
-   char nullval[MAX_LOG_LENGTH];
-
-   printf("flushlog()\n");
-   sprintf(nullval, "%d", -1);
-   for (i = 0; i < count; i++)
-   {
-      printf("Slot  %i: %s\n", i, logbuf[i]);
-      strcpy(logbuf[i], nullval);
+int flushlog(char** logbuf) {
+   pthread_mutex_lock(&mutex);
+   flushing = 1;
+   for (int i = 0; i < count; i++) {
+      printf("Slot %d: %s\n", i, logbuf[i]);
+      free(logbuf[i]);
+      logbuf[i] = NULL;
    }
-
-   fflush(stdout);
-
-   /*Reset buffer */
    count = 0;
-
-   return;
-
+   flushing = 0;
+   pthread_cond_broadcast(&cond);
+   pthread_mutex_unlock(&mutex);
+   return 0;
 }
 
-void *timer_start(void *args)
-{
-   while (1)
-   {
-      flushlog();
-      /*Waiting until the next timeout */
-      usleep(((struct _args *) args)->interval);
+void* timer_start(void* args) {
+   struct _args* targs = (struct _args*)args;
+   while (1) {
+      usleep(targs->interval);
+      flushlog(logbuf);
    }
+   return NULL;
 }
 
-int main()
-{
-   int i;
-   count = 0;
+void* writer_thread(void* arg) {
+   int id = *(int*)arg;
+   char str[MAX_LOG_LENGTH];
+   snprintf(str, MAX_LOG_LENGTH, "%d", id);
+   wrlog(logbuf, str);
+   return NULL;
+}
+
+int main() {
+   logbuf = (char**)malloc(sizeof(char*) * MAX_BUFFER_SLOT);
+
    pthread_t tid[MAX_LOOPS];
-   pthread_t lgrid;
-   int id[MAX_LOOPS];
+   pthread_t flusher;
+   int ids[MAX_LOOPS];
 
    struct _args args;
-   args.interval = 500e3;
-   /*500 msec ~ 500 * 1000 usec */
+   args.interval = 500000; // 500ms
 
-   /*Setup periodically invoke flushlog() */
-   pthread_create(&lgrid, NULL, &timer_start, (void*) &args);
+   pthread_create(&flusher, NULL, timer_start, &args);
 
-   /*Asynchronous invoke task writelog */
-   for (i = 0; i < MAX_LOOPS; i++)
-   {
-      id[i] = i;
-      pthread_create(&tid[i], NULL, wrlog, (void*) &id[i]);
+   for (int i = 0; i < MAX_LOOPS; i++) {
+      ids[i] = i;
+      pthread_create(&tid[i], NULL, writer_thread, &ids[i]);
    }
 
-   for (i = 0; i < MAX_LOOPS; i++)
+   for (int i = 0; i < MAX_LOOPS; i++) {
       pthread_join(tid[i], NULL);
+   }
 
-   sleep(5);
+   sleep(3); // Allow final flush
 
+   pthread_cancel(flusher); // Stop the flusher thread
+   pthread_join(flusher, NULL);
+
+   free(logbuf);
    return 0;
 }
