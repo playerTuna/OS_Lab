@@ -1,5 +1,5 @@
 # OS_Lab
-# Báo cáo và Source Code - Đồ án
+# Báo cáo
 
 ## Thành viên nhóm
 
